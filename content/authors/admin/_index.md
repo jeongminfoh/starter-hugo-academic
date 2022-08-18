@@ -1,42 +1,39 @@
 ---
 # Display name
-title: Jeongmin Oh
+title: Nelson Bighetti
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Florida State University
-    url: /
+  - name: Stanford University
+    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include policy analysis & design, citizen-centric public service delivery, strategic management and data analytics.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Policy Analysis & Design
-  - Citizen-centric Public Service Delivery
-  - Strategic Management
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Public Administration (expected)
-      institution: Florida State University
-      year: 2013
-    - course: Master in Public Policy
-      institution: University of Michigan
-      year: 2018
-    - course: Master in Public Administration
-      institution: Sungkyunkwan University
-      year: 2014
-    - course: Bachelor of Public Administration
-      institution: Sungkyunkwan University
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
       year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
