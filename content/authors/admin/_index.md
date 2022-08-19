@@ -65,9 +65,8 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-- Public Service: Discharged upon completion in the Republic of Korea Army as a first lieutenant
+- Public Service: a first lieutenant in the Republic of Korea Army (discharged upon completion in 2011)
 - Curious: very interested in what my peers are studying, and how that research might influence my own ideas or projects
 - Initiative: developing my own ideas and find how to seek partners who have complimentary skill sets 
 
-I'm interested in evidence-based policy, citizen-centric public service delivery, public management with a focus on organizational theory and strategic management to support tangible improvements to people’s lives into the real world for the construction of livable communities. 
-Using behavioral, data, and design sciences, I study how innovation in policy design and technology improves under-resourced communities’ access to public services to become economically self-sufficient. I found that public services are not successfully delivered to under-resourced communities even if policymakers introduce a sophisticated public policy. With my lifelong fascination in technology innovation, I am investigating cognitive and administrative barriers that prevent the eligible from accessing the services. 
+For the construction of livable communities, I'm interested in using behavioral, data, and design sciences to support tangible improvements to people’s lives into the real world. My research interests lie at the intersection of public policy and public management with a focus on equitable access to public service citizen-centric service design for sustainability & resilience.
