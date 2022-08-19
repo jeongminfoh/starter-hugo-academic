@@ -27,7 +27,7 @@ education:
   courses:
     - course: Ph.D. in Public Administration
       institution: Florida State University
-      year: 2013 (expected)
+      year: 2023 (expected)
     - course: Master in Public Policy
       institution: University of Michigan
       year: 2018
