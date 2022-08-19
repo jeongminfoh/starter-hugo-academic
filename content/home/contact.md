@@ -17,13 +17,12 @@ content:
 
   # Contact details (edit or remove options as required)
   email: jo18g@fsu.edu
-  phone: 888 888 88 88
-  active : false
+  phone: 
   office_hours:
     - ''
     - ''
   appointment_url: ''
-  contact_links:
+  
     
 
 design:
