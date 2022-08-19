@@ -25,3 +25,15 @@ main:
     url: '#contact'
     weight: 60
 
+
+# - name: Publications
+#   identifier: submenu-publications
+#   weight: 50
+# - name: Featured Publications
+#   parent: submenu-publications
+#   url: '#featured'
+#   weight: 10
+# - name: Recent Publications
+#   parent: submenu-publications
+#   url: '#publications'
+#   weight: 15
