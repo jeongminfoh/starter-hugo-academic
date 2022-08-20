@@ -28,7 +28,7 @@ experience:
     company_logo: 
     location: Tallahassee, FL
     date_start: '2021-08-31'
-    date_end: '2003-04-31'
+    date_end: ''
     description: |2-
         PAD3003 Public Administration in American (undergraduate)
         
@@ -46,10 +46,36 @@ experience:
     description: |2-
         Reubin O’D. Askew School of Public Administration and Policy
         
+        * Worked for multiple projects funded by the National Science Foundation (NSF)
+        * Assisted in drafting a grant proposal: Civic Engagement and Political Participation Research Grant Program How burdensome experiences of tuition-free college impact civic participation and trust in government <br>
+          "How burdensome experiences of tuition-free college impact civic participation and trust in government" <br>
+          Institute of Politics (PI: Elizabeth Bell), 2021 ($20,000, accepted)
+        * Drafted a grant proposal: "Analysis to Inform Florida’s Efforts to Enhance State-Local Capacity and Coordination in Building Resilient Communities" <br>
+          LeRoy Collins Institute, Florida State University, 2020 ($40,000, not funded)  
         * Social Justice & Innovation Laboratory
         * Local Governance Research Laboratory
-        * Worked for multiple projects funded by the National Science Foundation (NSF)
-  
+        
+  - title: Ph.D Policy Chair
+    company: Florida State University
+    company_url: ''
+    company_logo: 
+    location: Tallahassee, FL
+    date_start: '2019-08-31'
+    date_end: '2020-04-31'
+    description: |2-
+        Public Administration Graduate Association <br>
+        Reubin O’D. Askew School of Public Administration and Policy
+              
+  - title: Data Analyst
+    company: Florida Association of Court Clerks & Comptrollers
+    company_url: ''
+    company_logo: 
+    location: Tallahassee, FL
+    date_start: '2019-06-31'
+    date_end: '2019-08-31'
+    description: |2-
+        Civitek
+
 design:
   columns: '2'
 ---
