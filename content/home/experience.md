@@ -30,14 +30,15 @@ experience:
     date_start: '2021-08-31'
     date_end: ''
     description: |2-
-        PAD2003 Public Administration in American Society (undergraduate-level)
+        PAD2003 Public Administration in American Society 
         
+        * Undergraduate-level
         * Fall 2022 (in-person)
         * Spring 2022 (online)
         * Fall 2021 (in-person)
 
   - title: Ph.D. Policy Chair
-    company: Public Administration Graduate Association, Florida State University
+    company: Public Administration Graduate Association
     company_url: ''
     company_logo: 
     location: Tallahassee
@@ -46,6 +47,7 @@ experience:
     description: |2-
         Ph.D. Student Representative in the Ph.D. Committee
         Reubin O’D. Askew School of Public Administration and Policy
+        Florida State University
 
 design:
   columns: '2'
