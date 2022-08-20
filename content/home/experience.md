@@ -53,25 +53,26 @@ experience:
     location: Tallahassee, FL
     date_start: '2019-08-31'
     date_end: '2020-07-31'
-    description: Attended the Ph.D. Committee meetings at the Reubin O’D. Askew School of Public Administration and Policy as Ph.D. student representative of the Public Administration Graduate Association 
+    description: |2-
+    
+        * Attended the Ph.D. Committee meetings at the Reubin O’D. Askew School of Public Administration and Policy as Ph.D. student representative of the Public Administration Graduate Association 
 
   - title: Data Analyst 
-    company: Florida Association of Court Clerks and Comptrollers
+    company: Civitek, Florida Association of Court Clerks and Comptrollers
     company_url: ''
     company_logo: 
     location: Tallahassee, FL
     date_start: '2019-05-31'
     date_end: '2019-07-31'
-    description: Civitek
 
   - title: Research Intern 
-    company: Korea University
+    company: Social Disaster and Safety Management Center, Korea University
     company_url: ''
     company_logo: 
     location: Seoul, Korea
     date_start: '2017-04-31'
     date_end: '2017-07-31'
-    description: Social Disaster and Safety Management Center
+ 
 
  
     
