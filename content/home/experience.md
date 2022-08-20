@@ -78,8 +78,8 @@ experience:
     company_url: ''
     company_logo: 
     location: Ann Arbor, MI
-    date_start: '2019-05-31'
-    date_end: '2019-07-31'
+    date_start: '2017-01-07'
+    date_end: '2017-04-01'
     description: Gerald R. Ford School of Public Policy (PI: Elisabeth R. Gerber) with the Global Detroit
     
 design:
