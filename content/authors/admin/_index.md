@@ -35,7 +35,7 @@ education:
     - course: Master in Public Administration
       institution: Sungkyunkwan University
       year: 2014      
-    - course: Bachelor of Public Administration
+    - course: Bachelor of Public Administration 
       institution: Sungkyunkwan University
       year: 2009
 
@@ -65,7 +65,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-- Public Service: a first lieutenant in the Republic of Korea Army (discharged upon completion in 2011)
+- Public Service: former first lieutenant in the Republic of Korea Army | ROTC (Reserve Officers’ Training Corps)
 - Curious: very interested in what my peers are studying, and how that research might influence my own ideas or projects
 - Initiative: developing my own ideas and find how to seek partners who have complimentary skill sets 
 
