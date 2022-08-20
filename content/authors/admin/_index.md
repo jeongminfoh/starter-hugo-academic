@@ -69,4 +69,4 @@ highlight_name: true
 - Curious: very interested in what my peers are studying, and how that research might influence my own ideas or projects
 - Initiative: developing my own ideas and find how to seek partners who have complimentary skill sets 
 
-For the construction of livable communities, I'm interested in using behavioral, data, and design sciences to support tangible improvements to people’s lives into the real world. My research interests lie at the intersection of public policy and public management with a focus on equitable access to public service citizen-centric service design for sustainability & resilience.
+For the construction of livable communities, I'm interested in using behavioral, data, and design sciences to support tangible improvements to people’s lives into the real world. My research interests lie at the intersection of public policy and public management with a focus on equitable access to public service and citizen-centric service design for sustainability & resilience.
