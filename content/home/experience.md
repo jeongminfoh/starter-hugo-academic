@@ -32,9 +32,7 @@ experience:
     description: |2-
         PAD3003 Public Administration in American (undergraduate)
         
-        * Fall 2022 (in-person)
-        * Spring 2022 (online)
-        * Fall 2021 (in-person)
+        * Fall 2022 (in-person), Spring 2022 (online), Fall 2021 (in-person)
 
   - title: Graduate Research Assistant 
     company: Florida State University
@@ -44,14 +42,10 @@ experience:
     date_start: '2018-08-31'
     date_end: '2021-07-31'
     description: |2-
-        Reubin O’D. Askew School of Public Administration and Policy
-        
         * Worked for multiple projects funded by the National Science Foundation (NSF)
-        * Assisted in drafting a grant proposal (PI: Elizabeth Bell), 2021 ($20,000, accepted)
-        * Drafted a grant proposal, 2020 ($40,000)  
-        * Social Justice & Innovation Laboratory
-        * Local Governance Research Laboratory
- 
+        * Drafted & Assisted in drafting a grant proposal 
+        * Social Justice & Innovation Laboratory, Local Governance Research Laboratory at the Reubin O’D. Askew School of Public Administration and Policy
+   
   - title: Ph.D Policy Chair 
     company: Florida State University
     company_url: ''
@@ -59,10 +53,7 @@ experience:
     location: Tallahassee, FL
     date_start: '2019-08-31'
     date_end: '2020-07-31'
-    description: |2-      
-       
-        * Public Administration Graduate Association
-        * Attended the Ph.D. Committee meetings as Ph.D. student representative at the Reubin O’D. Askew School of Public Administration and Policy
+    description: Attended the Ph.D. Committee meetings at the Reubin O’D. Askew School of Public Administration and Policy as Ph.D. student representative of the Public Administration Graduate Association 
 
   - title: Data Analyst 
     company: Florida Association of Court Clerks and Comptrollers
@@ -71,10 +62,25 @@ experience:
     location: Tallahassee, FL
     date_start: '2019-05-31'
     date_end: '2019-07-31'
-    description: |2-      
-       
-        * Civitek
-  
+    description: Civitek
+
+  - title: Research Intern 
+    company: Korea University
+    company_url: ''
+    company_logo: 
+    location: Seoul, Korea
+    date_start: '2017-04-31'
+    date_end: '2017-07-31'
+    description: Social Disaster and Safety Management Center
+
+ - title: Research Assistant 
+    company: University of Michigan
+    company_url: ''
+    company_logo: 
+    location: Ann Arbor, MI
+    date_start: '2019-05-31'
+    date_end: '2019-07-31'
+    description: Gerald R. Ford School of Public Policy (PI: Elisabeth R. Gerber) with the Global Detroit
     
 design:
   columns: '2'
