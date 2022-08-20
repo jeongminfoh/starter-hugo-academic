@@ -62,7 +62,7 @@ experience:
     description: Public Administration Graduate Association, Reubin O’D. Askew School of Public Administration and Policy
               
   - title: Data Analyst
-    company: Florida Association of Court Clerks & Comptrollers
+    company: Florida Association of Court Clerks and Comptrollers
     company_url: ''
     company_logo: 
     location: Tallahassee, FL
