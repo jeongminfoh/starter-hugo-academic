@@ -48,27 +48,10 @@ experience:
         
         * Worked for multiple projects funded by the National Science Foundation (NSF)
         * Assisted in drafting a grant proposal (PI: Elizabeth Bell), 2021 ($20,000, accepted)
-        * Drafted a grant proposal, 2020 ($40,000, not funded)  
+        * Drafted a grant proposal, 2020 ($40,000)  
         * Social Justice & Innovation Laboratory
         * Local Governance Research Laboratory
-        
-  - title: Ph.D Policy Chair
-    company: Florida State University
-    company_url: ''
-    company_logo: 
-    location: Tallahassee, FL
-    date_start: '2019-08-31'
-    date_end: '2020-04-31'
-    description: Public Administration Graduate Association, Reubin O’D. Askew School of Public Administration and Policy
-              
-  - title: Data Analyst
-    company: Florida Association of Court Clerks and Comptrollers
-    company_url: ''
-    company_logo: 
-    location: Tallahassee, FL
-    date_start: '2019-06-31'
-    date_end: '2019-08-31'
-    description: Civitek
+ 
 
 design:
   columns: '2'
