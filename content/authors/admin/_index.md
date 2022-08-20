@@ -38,7 +38,6 @@ education:
     - course: Bachelor of Public Administration
       institution: Sungkyunkwan University
       year: 2009
-      - ROTC(Reserve Officers' Training Corps)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
