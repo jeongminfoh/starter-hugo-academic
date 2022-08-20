@@ -36,6 +36,20 @@ experience:
         * Spring 2022 (online)
         * Fall 2021 (in-person)
 
+  - title: Ph.D Policy Chair
+    company: Florida State University
+    company_url: ''
+    company_logo: 
+    location: Tallahassee, FL
+    date_start: '2021-08-31'
+    date_end: ''
+    description: |2-
+        Public Administration Graduate Association
+        
+        * Fall 2022 (in-person)
+        * Spring 2022 (online)
+        * Fall 2021 (in-person)
+
 design:
   columns: '2'
 ---
