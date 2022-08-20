@@ -70,7 +70,7 @@ experience:
     company_url: ''
     company_logo: 
     location: Seoul, Korea
-    date_start: '2017-05-01'
+    date_start: '2017-04-31'
     date_end: '2017-07-31'
     
   - title: Research Assistant  
@@ -79,7 +79,7 @@ experience:
     company_logo: 
     location: Tallahassee, FL
     date_start: '2017-01-01'
-    date_end: '2017-04-31'
+    date_end: '2017-04-01'
     description: |2-
     
         * Partnered with Global Detroit and worked with various government and nonprofit agencies
