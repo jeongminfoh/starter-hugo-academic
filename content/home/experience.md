@@ -71,8 +71,9 @@ experience:
     location: Tallahassee, FL
     date_start: '2019-06-31'
     date_end: '2019-08-30'
-    description: Civitek
-    
+    description: |2-      
+       
+        * Civitek
 design:
   columns: '2'
 ---
