@@ -33,9 +33,9 @@ experience:
         PAD2003 Public Administration in American Society 
         
         * instructor of record
-        * Fall 2022 (in-person)
-        * Spring 2022 (online)
-        * Fall 2021 (in-person)
+        * Fall 2022, in-person
+        * Spring 2022, online
+        * Fall 2021, in-person
 
   - title: Ph.D. Policy Chair
     company: Public Administration Graduate Association
@@ -45,7 +45,9 @@ experience:
     date_start: '2019-08-31'
     date_end: '2020-04-31'
     description: |2-
-        Ph.D. Student Representative in the Ph.D. Committee, Reubin O’D. Askew School of Public Administration and Policy, Florida State University
+        Ph.D. Student Representative in the Ph.D. Committee <br>
+        Reubin O’D. Askew School of Public Administration and Policy <br>
+        Florida State University
 
 design:
   columns: '2'
