@@ -70,7 +70,7 @@ experience:
     company_logo: 
     location: Tallahassee, FL
     date_start: '2019-06-31'
-    date_end: '2019-08-31'
+    date_end: '2019-08-30'
     description: Civitek
     
 design:
