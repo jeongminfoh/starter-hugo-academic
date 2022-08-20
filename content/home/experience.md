@@ -26,11 +26,11 @@ experience:
     company: Florida State University
     company_url: ''
     company_logo: 
-    location: Tallahassee
+    location: Tallahassee, FL
     date_start: '2021-08-31'
     date_end: ''
     description: |2-
-        PAD2003 Public Administration in American Society (undergraduate-level)
+        PAD2003 Public Administration in American Society 
         
         * instructor of record
         * Fall 2022 (in-person)
