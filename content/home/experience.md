@@ -84,7 +84,7 @@ experience:
     
         * Partnered with Global Detroit and worked with various government and nonprofit agencies
  
- - title: Researcher  
+  - title: Researcher  
     company: Global e-Policy & e-Government Institute, Sungkyunkwan University
     company_url: ''
     company_logo: 
@@ -95,7 +95,7 @@ experience:
     
         * Promoted from research assistant in March 2014
 
- - title: Program Coordinator (Chief Administrative Officer) 
+  - title: Program Coordinator (Chief Administrative Officer) 
     company: Graduate School of Governance, Sungkyunkwan University
     company_url: ''
     company_logo: 
@@ -106,7 +106,7 @@ experience:
     
         * Master’s Degree Program on Global e-Government & e-Policy, funded by the South Korean Government for international development
 
-- title: Infantry Company Executive Officer (First Lieutenant) 
+  - title: Infantry Company Executive Officer (First Lieutenant) 
     company: 25th Infantry Division, Republic of Korea Army
     company_url: ''
     company_logo: 
