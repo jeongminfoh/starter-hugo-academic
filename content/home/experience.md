@@ -59,9 +59,7 @@ experience:
     location: Tallahassee, FL
     date_start: '2019-08-31'
     date_end: '2020-04-31'
-    description: |2-
-        Public Administration Graduate Association <br>
-        Reubin O’D. Askew School of Public Administration and Policy
+    description: Public Administration Graduate Association, Reubin O’D. Askew School of Public Administration and Policy
               
   - title: Data Analyst
     company: Florida Association of Court Clerks & Comptrollers
@@ -70,8 +68,7 @@ experience:
     location: Tallahassee, FL
     date_start: '2019-06-31'
     date_end: '2019-08-31'
-    description: |2-
-        Civitek
+    description: Civitek
 
 design:
   columns: '2'
