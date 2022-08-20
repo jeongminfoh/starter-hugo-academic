@@ -19,8 +19,9 @@ bio: My research interests include policy analysis & design, citizen-centric pub
 # Interests to show in About widget
 interests:
   - Public Analysis & Design
-  - Citizen-centric Public Service Delivery
-  - Strategic Management & Technology Innovation
+  - Collaborative Governance
+  - Citizen-Centric Public Service Delivery
+  - Strategic Management & Innovation
   - Data Analytics
 
 # Education to show in About widget
