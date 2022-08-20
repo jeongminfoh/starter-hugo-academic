@@ -41,13 +41,11 @@ experience:
     company: Public Administration Graduate Association
     company_url: ''
     company_logo: 
-    location: Tallahassee
+    location: Tallahassee, FL
     date_start: '2019-08-31'
     date_end: '2020-04-31'
     description: |2-
-        Ph.D. Student Representative in the Ph.D. Committee
-        Reubin O’D. Askew School of Public Administration and Policy
-        Florida State University
+        Ph.D. Student Representative in the Ph.D. Committee, Reubin O’D. Askew School of Public Administration and Policy, Florida State University
 
 design:
   columns: '2'
