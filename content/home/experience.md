@@ -65,13 +65,7 @@ experience:
     date_start: '2019-05-31'
     date_end: '2019-07-31'
 
-  - title: Research Intern 
-    company: Social Disaster and Safety Management Center, Korea University
-    company_url: ''
-    company_logo: 
-    location: Seoul, Korea
-    date_start: '2017-04-31'
-    date_end: '2017-07-31'
+  
  
 
  
