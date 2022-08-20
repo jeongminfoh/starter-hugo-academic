@@ -44,10 +44,10 @@ experience:
     description: |2-
         * Worked for multiple projects funded by the National Science Foundation (NSF)
         * Drafted & Assisted in drafting a grant proposal 
-        * Social Justice & Innovation Laboratory, Local Governance Research Laboratory at the Reubin O’D. Askew School of Public Administration and Policy
+        * Social Justice & Innovation Laboratory | Local Governance Research Laboratory 
    
   - title: Ph.D Policy Chair 
-    company: Florida State University
+    company: Public Administration Graduate Association, Florida State University
     company_url: ''
     company_logo: 
     location: Tallahassee, FL
@@ -55,7 +55,7 @@ experience:
     date_end: '2020-07-31'
     description: |2-
     
-        * Attended the Ph.D. Committee meetings at the Reubin O’D. Askew School of Public Administration and Policy as Ph.D. student representative of the Public Administration Graduate Association 
+        * As Ph.D. student representative, attended the Ph.D. Committee meetings at the Reubin O’D. Askew School of Public Administration and Policy  
 
   - title: Data Analyst 
     company: Civitek, Florida Association of Court Clerks and Comptrollers
