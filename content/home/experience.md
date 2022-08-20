@@ -32,9 +32,9 @@ experience:
     description: |2-
         PAD3003 Public Administration in American (undergraduate)
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Fall 2022 (in-person)
+        * Spring 2022 (online)
+        * Fall 2021 (in-person)
 
 design:
   columns: '2'
