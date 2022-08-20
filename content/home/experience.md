@@ -73,12 +73,12 @@ experience:
     date_start: '2017-05-01'
     date_end: '2017-07-01'
     
-  - title: Research Assistant  
+  - title: Research Assistant (Winter 2017) 
     company: Gerald R. Ford School of Public Policy, University of Michigan
     company_url: ''
     company_logo: 
     location: Ann Arbor, MI
-    date_start: '2017-01-01'
+    date_start: '2017-02-01'
     date_end: '2017-04-01'
     description: |2-
     
@@ -89,8 +89,8 @@ experience:
     company_url: ''
     company_logo: 
     location: Seoul, Korea
-    date_start: '2013-01-31'
-    date_end: '2017-02-31'
+    date_start: '2013-03-01'
+    date_end: '2017-02-01'
     description: |2-
     
         * Promoted from research assistant in March 2014
