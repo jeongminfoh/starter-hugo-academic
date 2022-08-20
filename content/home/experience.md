@@ -47,9 +47,7 @@ experience:
         Public Administration Graduate Association <br>
         Reubin O’D. Askew School of Public Administration and Policy
         
-        * Fall 2022 (in-person)
-        * Spring 2022 (online)
-        * Fall 2021 (in-person)
+        * Attended the Ph.D. Committee meetings as Ph.D. student representative
 
 design:
   columns: '2'
