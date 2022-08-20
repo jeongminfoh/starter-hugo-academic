@@ -59,12 +59,20 @@ experience:
     location: Tallahassee, FL
     date_start: '2019-08-31'
     date_end: '2020-07-31'
-    description: |2-
-        
-        
+    description: |2-      
+       
         * Public Administration Graduate Association
         * Attended the Ph.D. Committee meetings as Ph.D. student representative at the Reubin O’D. Askew School of Public Administration and Policy
-        
+
+  - title: Data Analyst 
+    company: Florida Association of Court Clerks & Comptrollers
+    company_url: ''
+    company_logo: 
+    location: Tallahassee, FL
+    date_start: '2019-06-31'
+    date_end: '2019-08-31'
+    description: Civitek
+    
 design:
   columns: '2'
 ---
