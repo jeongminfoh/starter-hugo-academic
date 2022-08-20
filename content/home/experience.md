@@ -73,7 +73,7 @@ experience:
     date_end: '2017-07-31'
     description: Social Disaster and Safety Management Center
 
- - title: Research Assistant 
+  - title: Research Assistant 
     company: University of Michigan
     company_url: ''
     company_logo: 
