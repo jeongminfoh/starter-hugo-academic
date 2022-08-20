@@ -49,6 +49,17 @@ experience:
         
         * Attended the Ph.D. Committee meetings as Ph.D. student representative
 
+  - title: Data Analyst
+    company: Florida Association of Court Clerks & Comptrollers
+    company_url: ''
+    company_logo: 
+    location: Tallahassee, FL
+    date_start: '2021-08-31'
+    date_end: ''
+    description: |2-
+        Civitek
+        
+
 design:
   columns: '2'
 ---
