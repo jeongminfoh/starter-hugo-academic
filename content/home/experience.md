@@ -83,7 +83,20 @@ experience:
     description: |2-
     
         * Partnered with Global Detroit and worked with various government and nonprofit agencies
- 
+
+  - title: Researcher 
+    company: Global e-Policy & e-Government Institute, Sungkyunkwan University
+    company_url: ''
+    company_logo: 
+    location: Seoul, Korea
+    date_start: '2013-03-01'
+    date_end: '2016-12-01'
+    description: |2-
+    
+        * Promoted from research assistant in March 2014
+        * Worked also as program Coordinator (Chief Administrative Officer) of Master’s Degree Program on Global e-Government & e-Policy which was funded by the South Korean Government for international development
+
+
 design:
   columns: '2'
 ---
