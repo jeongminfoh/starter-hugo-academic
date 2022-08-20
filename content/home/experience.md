@@ -36,19 +36,15 @@ experience:
         * Spring 2022 (online)
         * Fall 2021 (in-person)
 
-- title: Graduate Research Assistant 
-    company: Florida State University
+- title: Professor of Semiconductor Physics
+    company: University X
     company_url: ''
-    company_logo: 
-    location: Tallahassee, FL
-    date_start: '2018-08-31'
-    date_end: '2021-07-31'
-    description: |2-
-        Reubin O’D. Askew School of Public Administration and Policy
-        
-        * Social Justice & Innovation Laboratory
-        * Local Governance Research Laboratory
-        * Worked for multiple projects funded by the National Science Foundation (NSF)
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
+
   
 design:
   columns: '2'
