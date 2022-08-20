@@ -65,7 +65,7 @@ experience:
         * Attended the Ph.D. Committee meetings as Ph.D. student representative at the Reubin O’D. Askew School of Public Administration and Policy
 
   - title: Data Analyst 
-    company: Florida Association of Court Clerks & Comptrollers
+    company: Florida Association of Court Clerks and Comptrollers
     company_url: ''
     company_logo: 
     location: Tallahassee, FL
