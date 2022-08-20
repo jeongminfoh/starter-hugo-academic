@@ -30,7 +30,7 @@ experience:
     date_start: '2021-08-31'
     date_end: ''
     description: |2-
-        PAD3003 Public Administration in American Society Responsibilities include:
+        PAD3003 Public Administration in American
         
         * Analysing
         * Modelling
