@@ -36,7 +36,7 @@ experience:
         * Spring 2022 (online)
         * Fall 2021 (in-person)
 
-- title: Professor of Semiconductor Physics
+  - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
     company_logo: org-x
