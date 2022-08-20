@@ -100,8 +100,8 @@ experience:
     company_url: ''
     company_logo: 
     location: Seoul, Korea
-    date_start: '2013-01-31'
-    date_end: '2017-02-31'
+    date_start: '2013-06-31'
+    date_end: '2015-06-31'
     description: |2-
     
         * Master’s Degree Program on Global e-Government & e-Policy, funded by the South Korean Government for international development
