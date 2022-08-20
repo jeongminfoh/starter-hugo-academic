@@ -70,8 +70,8 @@ experience:
     company_url: ''
     company_logo: 
     location: Seoul, Korea
-    date_start: '2017-04-31'
-    date_end: '2017-07-31'
+    date_start: '2017-05-01'
+    date_end: '2017-07-01'
     
   - title: Research Assistant  
     company: Gerald R. Ford School of Public Policy, University of Michigan
