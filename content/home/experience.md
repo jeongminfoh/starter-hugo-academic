@@ -65,7 +65,24 @@ experience:
     date_start: '2019-05-31'
     date_end: '2019-07-31'
 
-  
+  - title: Research Intern 
+    company: Social Disaster and Safety Management Center, Korea University
+    company_url: ''
+    company_logo: 
+    location: Seoul, Korea
+    date_start: '2017-05-01'
+    date_end: '2017-07-31'
+    
+  - title: Research Assistant  
+    company: Gerald R. Ford School of Public Policy, University of Michigan
+    company_url: ''
+    company_logo: 
+    location: Tallahassee, FL
+    date_start: '2017-01-11'
+    date_end: '2017-04-31'
+    description: |2-
+    
+        * Partnered with Global Detroit and worked with various government and nonprofit agencies
  
 
  
