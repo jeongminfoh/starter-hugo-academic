@@ -43,7 +43,9 @@ experience:
     location: Tallahassee
     date_start: '2019-08-31'
     date_end: '2020-04-31'
-    description: Ph.D. Student Representative in the Ph.D. Committee, the Askew School of Public Administration & Policy.
+    description: |2-
+        Ph.D. Student Representative in the Ph.D. Committee
+        Reubin O’D. Askew School of Public Administration and Policy
 
 design:
   columns: '2'
