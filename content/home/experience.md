@@ -36,6 +36,17 @@ experience:
         * Spring 2022 (online)
         * Fall 2021 (in-person)
 
+  - title: Ph.D Policy Chair
+    company: Florida State University
+    company_url: ''
+    company_logo: 
+    location: Tallahassee, FL
+    date_start: '2019-08-31'
+    date_end: '2020-04-31'
+    description: |2-
+        Public Administration Graduate Association <br>
+        Reubin O’D. Askew School of Public Administration and Policy
+
   - title: Graduate Research Assistant 
     company: Florida State University
     company_url: ''
@@ -49,18 +60,6 @@ experience:
         * Social Justice & Innovation Laboratory
         * Local Governance Research Laboratory
         * Worked for multiple projects funded by the National Science Foundation (NSF)
-
-  - title: Ph.D Policy Chair
-    company: Florida State University
-    company_url: ''
-    company_logo: 
-    location: Tallahassee, FL
-    date_start: '2019-08-31'
-    date_end: '2020-04-31'
-    description: |2-
-        Public Administration Graduate Association <br>
-        Reubin O’D. Askew School of Public Administration and Policy
-
   
 design:
   columns: '2'
