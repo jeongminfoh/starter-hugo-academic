@@ -73,14 +73,7 @@ experience:
     date_end: '2017-07-31'
     description: Social Disaster and Safety Management Center
 
-  - title: Research Assistant 
-    company: University of Michigan
-    company_url: ''
-    company_logo: 
-    location: Ann Arbor, MI
-    date_start: '2017-01-07'
-    date_end: '2017-04-01'
-    description: Gerald R. Ford School of Public Policy (PI: Elisabeth R. Gerber) with the Global Detroit
+ 
     
 design:
   columns: '2'
