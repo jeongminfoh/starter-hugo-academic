@@ -28,7 +28,7 @@ experience:
     company_logo: 
     location: Tallahassee, FL
     date_start: '2021-08-31'
-    date_end: ''
+    date_end: '2003-04-31'
     description: |2-
         PAD3003 Public Administration in American (undergraduate)
         
