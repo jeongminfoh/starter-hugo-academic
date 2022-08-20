@@ -52,7 +52,19 @@ experience:
         * Social Justice & Innovation Laboratory
         * Local Governance Research Laboratory
  
-
+  - title: Ph.D Policy Chair 
+    company: Florida State University
+    company_url: ''
+    company_logo: 
+    location: Tallahassee, FL
+    date_start: '2019-08-31'
+    date_end: '2020-07-31'
+    description: |2-
+        
+        
+        * Public Administration Graduate Association
+        * Attended the Ph.D. Committee meetings as Ph.D. student representative at the Reubin O’D. Askew School of Public Administration and Policy
+        
 design:
   columns: '2'
 ---
