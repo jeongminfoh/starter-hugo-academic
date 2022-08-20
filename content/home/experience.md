@@ -44,7 +44,8 @@ experience:
     date_start: '2021-08-31'
     date_end: ''
     description: |2-
-        Public Administration Graduate Association
+        Public Administration Graduate Association <br>
+        Reubin O’D. Askew School of Public Administration and Policy
         
         * Fall 2022 (in-person)
         * Spring 2022 (online)
