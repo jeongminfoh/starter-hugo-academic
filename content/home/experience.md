@@ -96,6 +96,16 @@ experience:
         * Promoted from research assistant in March 2014
         * Worked also as program Coordinator (Chief Administrative Officer) of Master’s Degree Program on Global e-Government & e-Policy which was funded by the South Korean Government for international development
 
+  - title: Infantry Company Executive Officer (First Lieutenant) 
+    company: 25th Infantry Division, Republic of Korea Army
+    company_url: ''
+    company_logo: 
+    location: Korea
+    date_start: '2009-03-31'
+    date_end: '2011-6-31'
+    description: |2-
+    
+        * Promoted from Infantry Platoon Leader (Second Lieutenant) in March 2010
 
 design:
   columns: '2'
