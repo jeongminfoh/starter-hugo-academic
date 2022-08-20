@@ -78,7 +78,7 @@ experience:
     company_url: ''
     company_logo: 
     location: Tallahassee, FL
-    date_start: '2017-01-11'
+    date_start: '2017-01-01'
     date_end: '2017-04-31'
     description: |2-
     
