@@ -94,18 +94,8 @@ experience:
     description: |2-
     
         * Promoted from research assistant in March 2014
-
-  - title: Program Coordinator (Chief Administrative Officer) 
-    company: Graduate School of Governance, Sungkyunkwan University
-    company_url: ''
-    company_logo: 
-    location: Seoul, Korea
-    date_start: '2013-06-31'
-    date_end: '2015-06-31'
-    description: |2-
-    
-        * Master’s Degree Program on Global e-Government & e-Policy, funded by the South Korean Government for international development
-
+        * Worked also as program Coordinator (Chief Administrative Officer) of Master’s Degree Program on Global e-Government & e-Policy which was funded by the South Korean Government for international development 
+  
   - title: Infantry Company Executive Officer (First Lieutenant) 
     company: 25th Infantry Division, Republic of Korea Army
     company_url: ''
