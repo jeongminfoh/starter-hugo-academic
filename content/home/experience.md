@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Graduate Teaching Assistant (instructor of record)
+  - title: Graduate Teaching Assistant 
     company: Florida State University
     company_url: ''
     company_logo: 
@@ -30,9 +30,9 @@ experience:
     date_start: '2021-08-31'
     date_end: ''
     description: |2-
-        PAD2003 Public Administration in American Society 
+        PAD2003 Public Administration in American Society (undergraduate-level)
         
-        * Undergraduate-level
+        * instructor of record
         * Fall 2022 (in-person)
         * Spring 2022 (online)
         * Fall 2021 (in-person)
