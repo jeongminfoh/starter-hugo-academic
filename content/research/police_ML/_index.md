@@ -1,18 +1,14 @@
 ---
 title: "Evaluating the Determinants of Support for Police Militarization among Officers"
-date: 2022-08-01 
+date: 2022-08-01
 publishDate: 2022-09-04T20:13:52.626042Z
 authors: ["Ryan M Welch", "Jack M Mewhirter", "James E Wright II", admin]
-publication_types: ["3"]
+publication_types: ["2"]
 abstract: ""
 featured: false
 image:
   preview_only: false
-publication: ""
+publication: "*Journal of Contemporary Eastern Asia, 20*(2)"
 url_pdf: ""
-doi: ""
+doi: "https://DOI:10.17477/jcea.2021.20.2.085"
 ---
-
-{{% alert note %}}
-Under review. 
-{{% /alert %}}
