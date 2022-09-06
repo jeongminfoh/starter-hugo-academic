@@ -2,7 +2,7 @@
 title: "Mediating Effects of Public Trust in Government on National Competitiveness: Evidence from Asian Countries"
 date: 2016-01-01
 publishDate: 2021-01-05T20:13:52.626042Z
-authors: ["Jeongmin Oh", "Dahee Lim"]
+authors: ["Lim, D.", "Dahee Lim"]
 publication_types: ["2"]
 abstract: ""
 featured: false
