@@ -10,5 +10,5 @@ image:
   preview_only: true
 publication: "*International Review of Public Administration, 21*(2)"
 url_pdf: ""
-doi: "https://doi/abs/10.1080/12294659.2016.1189196"
+doi: "10.1080/12294659.2016.1189196"
 ---
