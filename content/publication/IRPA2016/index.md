@@ -1,32 +1,14 @@
 ---
-title: "Mediating Effects of Public Trust in Government on National Competitiveness: Evidence from Asian Countries"
-authors: ["Lim, D", "Oh, J.", "&" "Kwon, G"]
-date: "2016-06-09"
-doi: "https://doi.org/10.1080/12294659.2016.1189196"
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
+title: "Foreign Direct Investment, Regime Type, and Labor Protest in Developing Countries"
+date: 2011-01-01
+publishDate: 2021-01-05T20:13:52.626042Z
+authors: ["Graeme B. Robertson", "Emmanuel Teitelbaum"]
 publication_types: ["2"]
-
-# Publication name and optional abbreviated publication name.
-publication: "*International Review of Public Administration, 21*(2)"
-publication_short: ""
-
-abstract: 
-
-# Summary. An optional shortened abstract.
-summary: 
-
-tags:
-- Source Themes
+abstract: "We explore the relationship between FDI, regime type, and strikes in low- and middle-income countries. We argue that FDI produces social tensions and opportunities for protest that can result in higher levels of industrial conflict. However, the effect of FDI is moderated by regime type. While democracies tend to have higher levels of protest overall, they are better able than authoritarian regimes to cope with the strains arising from FDI. We cite two reasons. First, political competition forces regimes to incorporate workers, which shifts conflict from industrial relations to the political arena. Second, democracies provide workers with freedom of association rights, which facilitate institutionalized grievance resolution. We test the argument using a new dataset of labor protest in low- and middle-income countries for the period 1980–2005."
 featured: false
-
-
-
-
+image:
+  preview_only: true
+publication: "*American Journal of Political Science*"
+url_pdf: "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-5907.2011.00510.x"
+doi: "https://doi.org/10.1111/j.1540-5907.2011.00510.x"
 ---
