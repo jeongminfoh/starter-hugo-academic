@@ -68,7 +68,7 @@ email: ''
 highlight_name: true
 ---
 
-I'm a Ph.D. candidate in public adminisration and policy at Florida State University. 
+I'm a Ph.D. candidate in public adminisration and policy at Florida State University. </br> 
 For the construction of livable communities, I'm interested in using behavioral, data, and design sciences to support tangible improvements to people’s lives into the real world. My research interests lie at the intersection of public policy and public management with a focus on equitable access to public service and citizen-centric service design for sustainability & resilience.
 
 - Public Service: former first lieutenant in the Republic of Korea Army | ROTC (Reserve Officers’ Training Corps)
