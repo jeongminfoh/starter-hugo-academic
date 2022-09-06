@@ -10,5 +10,5 @@ image:
   preview_only: false
 publication: "*Under Review*"
 url_pdf: ""
-doi: "https://DOI:10.17477/jcea.2021.20.2.085"
+doi: ""
 ---
