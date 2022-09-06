@@ -10,5 +10,5 @@ image:
   preview_only: false
 publication: "*Journal of Contemporary Eastern Asia, 20*(2)"
 url_pdf: ""
-doi: "https://doi.org.10.17477/jcea.2021.20.2.085"
+doi: "10.17477/jcea.2021.20.2.085"
 ---
