@@ -2,7 +2,7 @@
 title: "Risk Communication Networks on 2017 Gangneung Wildfire in South Korea"
 date: 2021-12-01
 publishDate: 2022-09-05T20:13:52.626042Z
-authors: ["Jeongmin Oh", "Kyujin Jung", "Minsun Song"]
+authors: [admin, "Kyujin Jung", "Minsun Song"]
 publication_types: ["2"]
 abstract: ""
 featured: false
