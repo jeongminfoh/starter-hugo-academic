@@ -4,6 +4,13 @@ header:
   image: "header.png"
 title: 
 type: page
+image:
+  placement: 1
+  caption: "At the SPSA 2019 in Autin, TX"
+  focal_point: "Center"
+  preview_only: false
+  alt_text: An optional description of the image for screen readers.
+  # filename: my-image.jpg  # Uncomment to load an image from `assets/media/` instead.
 ---
 
 - How can we design public policy to provide diverse people who are in need of governmental assistance with tailored public services?
@@ -17,10 +24,3 @@ type: page
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 # Set `preview_only` to `true` to just use the image for thumbnails.
-image:
-  placement: 1
-  caption: "At the SPSA 2019 in Autin, TX"
-  focal_point: "Center"
-  preview_only: false
-  alt_text: An optional description of the image for screen readers.
-  # filename: my-image.jpg  # Uncomment to load an image from `assets/media/` instead.
