@@ -2,7 +2,7 @@
 header:
   caption: ""
   image: ""
-title: 
+title: Research
 type: page
 view: 4
 
