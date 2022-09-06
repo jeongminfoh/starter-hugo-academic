@@ -1,7 +1,7 @@
 ---
 title: "Risk Communication Networks on 2017 Gangneung Wildfire in South Korea"
 date: 2021-12-06
-publishDate: 2021-01-05T20:13:52.626042Z
+publishDate: 2022-09-05T20:13:52.626042Z
 authors: ["Oh, J.", "Jung, K.", "&" "Song, M"]
 publication_types: ["2"]
 abstract: ""
