@@ -4,7 +4,7 @@ header:
   image: ""
 title: Research
 type: page
-view: 4
+view: 2
 
 # Cover image
 # To use, place an image named `featured.jpg/png` in your page's folder.
