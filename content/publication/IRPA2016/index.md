@@ -1,6 +1,6 @@
 ---
 title: "Mediating Effects of Public Trust in Government on National Competitiveness: Evidence from Asian Countries"
-authors: ["Lim, D., Oh, J., & Kwon, G."]
+authors: ["Lim, D", "Oh, J.", "&" "Kwon, G"]
 date: "2016-06-09"
 doi: "https://doi.org/10.1080/12294659.2016.1189196"
 
