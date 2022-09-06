@@ -14,15 +14,16 @@ organizations:
     url: https://coss.fsu.edu/askew/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include policy analysis & design, citizen-centric public service delivery and strategic management.
+bio: My research interests include policy analysis & design, Equitable public service delivery and strategic management.
 
 # Interests to show in About widget
 interests:
   - Public Analysis & Design
-  - Collaborative Governance
-  - Citizen-Centric Public Service Delivery
+  - Local Collaborative Governance
+  - Social Equity  
   - Strategic Management & Innovation
   - Data Analytics
+  - Emergency Management & Sustainability
 
 # Education to show in About widget
 education:
