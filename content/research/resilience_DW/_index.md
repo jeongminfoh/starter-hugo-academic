@@ -8,7 +8,7 @@ abstract: ""
 featured: false
 image:
   preview_only: false
-publication: "*Under Review*"
+publication: "*R&R*"
 url_pdf: ""
 doi: ""
 ---
