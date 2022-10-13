@@ -69,7 +69,7 @@ highlight_name: true
 ---
 
 I'm a Ph.D. candidate in public adminisration at Florida State University. </br> 
-I'm interested in Designing public services with a focus on equitable access, </br>
+I'm interested in designing public services with a focus on equitable access, </br>
 psychological & administrative burden, and causal inference of data-driven </br>
 policy interventions by using behavioral, data, and design sciences </br> 
 to support tangible improvements to people’s lives into the real world.  </br>
