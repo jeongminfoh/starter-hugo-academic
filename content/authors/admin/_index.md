@@ -69,9 +69,10 @@ highlight_name: true
 ---
 
 I'm a Ph.D. candidate in public adminisration at Florida State University. </br> 
-I'm interested in using behavioral, data, and design sciences </br> to support tangible improvements to people’s lives into the real world.  </br>
-My research interests lie in Public Policy, Public Management, and Strategic Management </br> 
-with a focus on equitable access to public service and citizen-centric service design for sustainability & resilience.
+I'm interested in Designing public services with a focus on equitable access, </br>
+psychological & administrative burden, and causal inference of data-driven </br>
+policy interventions by using behavioral, data, and design sciences </br> 
+to support tangible improvements to people’s lives into the real world.  </br>
 
 - Public Service: former first lieutenant in the Republic of Korea Army | ROTC (Reserve Officers’ Training Corps)
 - Curious: very interested in what my peers are studying, and how that research might influence my own ideas or projects
