@@ -18,9 +18,10 @@ bio: My research interests include policy analysis & design, Equitable public se
 
 # Interests to show in About widget
 interests:
-  - Public Analysis & Design
-  - Equitable public service delivery
-  - Behavioral Public Policy  
+  - Behavioral Public Administration/Policy
+  - Policy Analysis & Implementation
+  - Public Service Design
+  - Economic Resilience & Social Equity 
   - Strategic Management
   - Digital Governance
   - Emergency Management & Sustainability
