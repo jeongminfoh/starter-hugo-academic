@@ -14,6 +14,6 @@ header:
   image: ""
 ---
 
-[publications] ({{< ref "publication/index.md" >}})
+[publications] {{< ref "publication/index.md" >}}
 
 
