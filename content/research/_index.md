@@ -1,5 +1,5 @@
 ---
-title: Publications & Manuscripts in Preparation
+title: RESEARCH
 summary: "Jeongmin Oh's Publications & Manuscripts in Preparation" 
 date: ""
 
