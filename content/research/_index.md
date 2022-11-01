@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 
-Add your *content* here...
-
+publications
+({{< ref "publication/index.md" >}})
 
 
