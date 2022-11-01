@@ -13,7 +13,7 @@ header:
   caption: "At the SPSA 2019 in Autin, TX"
   image: ""
 ---
+Publications
 
-{{< ref "content/publication/index.md" >}}
 
 
