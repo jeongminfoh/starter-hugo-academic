@@ -12,7 +12,7 @@ comments: false  # Show comments?
 
 # Optional header image (relative to `assets/media/` folder).
 header:
-  caption: "At the SPSA 2019 in Autin, TX"
+  caption: ""
   image: ""
   
 image:
