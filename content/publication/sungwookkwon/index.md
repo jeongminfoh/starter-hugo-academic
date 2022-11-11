@@ -7,7 +7,7 @@ date: 2022-09-11
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
-publication: "Under Review"
+publication: "Working Paper"
 publication_short: ""
 
 # Abstract and optional shortened version.
