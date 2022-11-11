@@ -14,13 +14,6 @@ design:
     padding: ["20px", "0", "0", "0"]  
   
 ---
-
-**Climate Policy Curves**  
-with Martin Hänsel, Moritz Drupp, Gernot Wagner and Glenn Rudebusch.
-
-**Where is the Carbon Premium? Global Performance of Green and Brown Stocks**  
-with Daniel Huber, Glenn Rudebusch, and Ole Wilms.
-
 Mewhirter, J, Welch, R, Wright II, J., & admin. **1033 and Police Militarization: A survey experiment**.
 
 admin., Song, Y., & Tang, T. **Spatial Analysis on Local Legislative and Executive Leadership and Mobile App Management Innovation**.
