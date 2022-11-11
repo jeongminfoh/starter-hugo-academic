@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Evaluating the Determinants of Support for Police Militarization among Officers"
-authors: ["Welch, R.", "Mewhirter, J.", "Wright, J.", admin]
+authors: ["Ryan Welch", "Jack Mewhirter", "James Wright", admin]
 date: 2022-09-11
 publication_types: ["3"]
 
