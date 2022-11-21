@@ -8,7 +8,7 @@ abstract: ""
 featured: false
 image:
   preview_only: false
-publication: "*Social Science Quarterly, 2022*"
+publication: "*Social Science Quarterly, forthcoming*"
 url_pdf: ""
 doi: ""
 ---
