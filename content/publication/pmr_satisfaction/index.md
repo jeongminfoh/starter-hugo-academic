@@ -7,7 +7,7 @@ date: 2022-09-11
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
-publication: "Invited submission for forthcoming special issue of Public Management Review"
+publication: "Under Review"
 publication_short: ""
 
 # Abstract and optional shortened version.
