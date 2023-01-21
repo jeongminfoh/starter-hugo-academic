@@ -3,7 +3,7 @@
 
 title: "Responsiveness, Government Resource Priorities and Application of Machine Learning"
 authors: [admin]
-date: 2022-09-11
+date: 2023-01-11
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
