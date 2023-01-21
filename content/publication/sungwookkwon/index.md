@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Evaluating the Determinants of Support for Police Militarization among Officers"
+title: "Strategic Management for Local Sustainability: Decoupling between Strategic Planning and Performance Measurements"
 authors: [admin, "Sung-wook Kwon", "Frances Berry"]
 date: 2022-09-11
 publication_types: ["3"]
