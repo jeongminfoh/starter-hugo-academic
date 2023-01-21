@@ -3,7 +3,7 @@
 
 title: "Getting Together or Distancing Each Other: Policy Instruments mixed Amid COVID-19"
 authors: [admin, "Tian Tang"]
-date: 2022-09-11
+date: 2023-01-01
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
