@@ -8,7 +8,7 @@ abstract: ""
 featured: false
 image:
   preview_only: false
-publication: "*Social Science Quarterly, forthcoming*"
+publication: "*Social Science Quarterly, 103: 1647– 1658*"
 url_pdf: ""
 doi: ""
 ---
