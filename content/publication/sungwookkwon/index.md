@@ -3,7 +3,7 @@
 
 title: "Strategic Management for Local Sustainability: Decoupling between Strategic Planning and Performance Measurements"
 authors: [admin, "Sung-wook Kwon", "Frances Berry"]
-date: 2022-01-11
+date: 2023-01-11
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
