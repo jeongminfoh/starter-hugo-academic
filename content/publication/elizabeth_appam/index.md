@@ -3,7 +3,7 @@
 
 title: "How burdensome experiences of tuition-free college impact civic participation and trust in government"
 authors: ["Elizabeth Bell", "James Wright", admin]
-date: 2022-09-11
+date: 2023-01-01
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
