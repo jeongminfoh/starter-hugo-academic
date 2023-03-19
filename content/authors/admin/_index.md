@@ -6,7 +6,7 @@ title: Jeongmin Oh
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate </br> Askew School of Public Administration and Policy
+role: Ph.D. Candidate </br> Reubin O'D.Askew School of Public Administration & Policy
 
 # Organizations/Affiliations to show in About widget
 organizations:
