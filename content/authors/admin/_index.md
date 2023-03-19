@@ -7,10 +7,11 @@ superuser: true
 
 # Role/position/tagline
 role: Ph.D. Candidate 
+Reubin O’D. Askew School of Public Administration & Policy
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Reubin O’D. Askew School of Public Administration & Policy at Florida State University
+  - name: Florida State University
     url: https://coss.fsu.edu/askew/
 
 # Short bio (displayed in user profile at end of posts)
