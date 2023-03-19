@@ -14,16 +14,16 @@ organizations:
     url: https://coss.fsu.edu/askew/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include policy analysis & design, Equitable public service delivery and strategic management.
+bio: My research interests include Behavioral Public Policy, Public Service & Policy Design and Digital Governance.
 
 # Interests to show in About widget
 interests:
-  - Behavioral Public Policy
+  - Behavioral Public Policy/Administration
+  - Public Service & Policy Design
   - Strategic Management
-  - Policy Design & Program Evaluation
   - Digital Governance
-  - Sustainability & Social Equity 
-  - Emergency Management & Resilience
+  - Psychological & Administrative Burden
+  - Social Equity & Resilience
 
 # Education to show in About widget
 education:
@@ -38,7 +38,7 @@ education:
       institution: Sungkyunkwan University
       year: 2014      
     - course: Bachelor of Public Administration 
-      institution: Sungkyunkwan University
+      institution: Sungkyunkwan University | ROTC (Reserve Officers’ Training Corps)
       year: 2009
 
 # Social/Academic Networking
@@ -69,11 +69,8 @@ highlight_name: true
 ---
 
 I'm a Ph.D. candidate in public adminisration at Florida State University. </br> 
-I'm interested in designing public services with a focus on equitable access, </br>
-psychological & administrative burden, and causal inference of data-driven </br>
-policy interventions by using behavioral, data, and design sciences </br> 
+</br> 
+I study Public Policy & Public Service Delivery </br>
+</br> 
 to support tangible improvements to people’s lives into the real world.  </br>
 
-- Public Service: former first lieutenant in the Republic of Korea Army | ROTC (Reserve Officers’ Training Corps)
-- Curious: very interested in what my peers are studying, and how that research might influence my own ideas or projects
-- Initiative: developing my own ideas and find how to seek partners who have complimentary skill sets 
