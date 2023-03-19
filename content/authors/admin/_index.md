@@ -68,9 +68,11 @@ email: ''
 highlight_name: true
 ---
 
-I'm a Ph.D. candidate in public adminisration at Florida State University. </br> 
+I study Public Policy & Public Service Delivery </br> 
 </br> 
-I study Public Policy & Public Service Delivery </br>
-</br> 
-to support tangible improvements to people’s lives into the real world.  </br>
+I am very curious </br>
+How can we translate support for tangible improvements to people's lives into real-world action?</br>
+How can we remove psychological and administrative barriers for economically disadvantaged individuals to access public services? </br>  
+How can we improve employee satisfaction in government agencies to enhance the public service user experience? </br> 
+
 
