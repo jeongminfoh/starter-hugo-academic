@@ -6,12 +6,12 @@ title: Jeongmin Oh
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate </br> Reubin O'D.Askew School of Public Administration & Policy
+role: Assistant Professor </br> Department of Political Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Florida State University
-    url: https://coss.fsu.edu/askew/
+  - name: Arkansas State University
+    url: https://www.astate.edu/college/liberal-arts/faculty-and-staff/political-science/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Behavioral Public Policy, Public Service & Policy Design and Digital Governance.
@@ -30,7 +30,7 @@ education:
   courses:
     - course: Ph.D. in Public Administration
       institution: Florida State University
-      year: 2023 (expected)
+      year: 2023 
     - course: Master in Public Policy
       institution: University of Michigan
       year: 2018
