@@ -4,10 +4,10 @@
 title: "Evaluating the Determinants of Support for Police Militarization among Officers"
 authors: ["Ryan Welch", "Jack Mewhirter", "James Wright", admin]
 date: 2023-01-13
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated version.
-publication: "R & R"
+publication: "*Politics & Policy*, Conditional Acceptance"
 publication_short: ""
 
 # Abstract and optional shortened version.
