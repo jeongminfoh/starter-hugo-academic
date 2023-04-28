@@ -18,8 +18,8 @@ bio: My research interests include Behavioral Public Policy, Public Service & Po
 
 # Interests to show in About widget
 interests:
-  - Behavioral Public Policy/Administration
-  - Public Service & Policy Design
+  - Behavioral Public Policy
+  - Public Policy & Service Design
   - Strategic Management
   - Digital Governance
   - Psychological & Administrative Burden
