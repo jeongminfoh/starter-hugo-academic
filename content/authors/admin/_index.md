@@ -73,6 +73,6 @@ to find answers to the following questions:</br>
 </br>
 How can we translate support for tangible improvements to people's lives into real-world action? </br>
 How can we remove psychological and administrative barriers for economically disadvantaged individuals to access public services?   
-How can we improve employee satisfaction in government agencies to enhance the public service user experience? 
+In order to enhance the public service user experience and achieve policy success, how can we improve employee satisfaction and commitment in government agencies ? 
 
 
