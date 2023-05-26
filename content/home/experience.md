@@ -23,6 +23,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+
+  - title: Graduate Assistant & Instroctor of Record
+    company: Askew School of Public Administration, Florida State University
+    company_url: ''
+    company_logo: 
+    location: Tallahassee, FL
+    date_start: '2020-08-01'
+    date_end: '2023-04-31'
+    description: |2-
+    
+        * FAll 2018 - Spring 2023: Worked for NSF projects in the Local governance and Social Justice Lab in the Reubin O’D. Askew School of Public Administration and Policy
+ 
   - title: Ph.D Policy Chair 
     company: Public Administration Graduate Association, Florida State University
     company_url: ''
@@ -41,18 +53,7 @@ experience:
     location: Tallahassee, FL
     date_start: '2019-05-31'
     date_end: '2019-07-31'
-
-  - title: Graduate Assistant 
-    company: Askew School of Public Administration, Florida State University
-    company_url: ''
-    company_logo: 
-    location: Tallahassee, FL
-    date_start: '2018-08-31'
-    date_end: '2023-04-31'
-    description: |2-
-    
-        * Worked for NSF projects in the Local governance and Social Justice Lab in the Reubin O’D. Askew School of Public Administration and Policy
-        
+       
   - title: Research Intern 
     company: Social Disaster and Safety Management Center, Korea University
     company_url: ''
