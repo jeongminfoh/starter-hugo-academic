@@ -29,11 +29,11 @@ experience:
     company_url: ''
     company_logo: 
     location: Tallahassee, FL
-    date_start: '2020-08-01'
+    date_start: '2020-08-31'
     date_end: '2023-04-31'
     description: |2-
     
-        * FAll 2018 - Spring 2023: Worked for NSF projects in the Local governance and Social Justice Lab in the Reubin O’D. Askew School of Public Administration and Policy
+        * FAll 2018 to Spring 2023. Worked for NSF projects in the Local governance and Social Justice Lab in the Reubin O’D. Askew School of Public Administration and Policy
  
   - title: Ph.D Policy Chair 
     company: Public Administration Graduate Association, Florida State University
