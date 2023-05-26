@@ -68,7 +68,7 @@ experience:
     company_logo: 
     location: Seoul, Korea
     date_start: '2013-03-01'
-    date_end: '2016-12-01'
+    date_end: '2017-02-01'
     description: |2-
     
         * Promoted from research assistant in March 2014
