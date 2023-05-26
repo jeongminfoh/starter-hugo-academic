@@ -16,7 +16,7 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: jo18g@fsu.edu
+  email: johg@astate.edu
   phone: 
   office_hours:
     - ''
