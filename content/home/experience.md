@@ -28,6 +28,17 @@ experience:
     company_url: ''
     company_logo: 
     location: Tallahassee, FL
+    date_start: '2020-08-01'
+    date_end: '2023-04-31'
+    description: |2-
+    
+        * As Ph.D. student representative, attended the Ph.D. Committee meetings at the Reubin O’D. Askew School of Public Administration and Policy  
+
+  - title: Ph.D Policy Chair 
+    company: Public Administration Graduate Association, Florida State University
+    company_url: ''
+    company_logo: 
+    location: Tallahassee, FL
     date_start: '2019-08-31'
     date_end: '2020-07-31'
     description: |2-
