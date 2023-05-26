@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
 
 
-  - title: Graduate Assistant & Instroctor of Record
+  - title: Graduate Assistant, Instroctor of Record
     company: Askew School of Public Administration, Florida State University
     company_url: ''
     company_logo: 
