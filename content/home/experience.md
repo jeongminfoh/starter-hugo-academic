@@ -23,16 +23,17 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Ph.D Policy Chair 
-    company: Public Administration Graduate Association, Florida State University
+  - title: Graduate Assistant & Instructor of Record 
+    company: Askew School of Public Administration and Policy, Florida State University
     company_url: ''
     company_logo: 
     location: Tallahassee, FL
     date_start: '2020-08-01'
-    date_end: '2023-04-31'
+    date_end: '2023-04-30'
     description: |2-
     
-        * As Ph.D. student representative, attended the Ph.D. Committee meetings at the Reubin O’D. Askew School of Public Administration and Policy  
+        * Fall 2018 - Spring 2021 at the Local Governance Lab & Social Justice Lab
+        * Fall 2021 - Fall 2022: PAD 3003 as instructor of record  
 
   - title: Ph.D Policy Chair 
     company: Public Administration Graduate Association, Florida State University
