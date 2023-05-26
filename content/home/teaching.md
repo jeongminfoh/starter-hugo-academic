@@ -13,6 +13,10 @@ title: 'Teaching'
 subtitle:
 ---
 
+Arkansas State University
+- POSC3503 Principles of Public Administration   
+- POSC6613 Administrative Leadership
+
 Florida State University
 - PAD3003 Public Administration in American Society   
 - PAD5035 Policy Development and Administration (Graduate Assistant in Teaching)
