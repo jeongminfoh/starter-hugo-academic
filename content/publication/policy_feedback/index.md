@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "How burdensome experiences of tuition-free college impact civic participation and trust in government"
+title: "Administrative Burdens and Policy Feedback: Are Experiences of Burden Associated with Client’s Trust in Government and Civic Predisposition?"
 authors: ["Elizabeth Bell", "James Wright", admin]
-date: 2023-01-01
+date: 2023-05-01
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
-publication: "Working Paper"
+publication: "Submitted"
 publication_short: ""
 
 # Abstract and optional shortened version.
