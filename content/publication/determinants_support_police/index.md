@@ -7,7 +7,7 @@ date: 2023-01-13
 publication_types: ["2"]
 
 # Publication name and optional abbreviated version.
-publication: "*Politics & Policy*, Conditional Acceptance"
+publication: "*Politics & Policy*, 51(4): 636–660"
 publication_short: ""
 
 # Abstract and optional shortened version.
