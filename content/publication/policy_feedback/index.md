@@ -7,7 +7,7 @@ date: 2023-05-01
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
-publication: "Submitted"
+publication: "R & R"
 publication_short: ""
 
 # Abstract and optional shortened version.
