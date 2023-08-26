@@ -14,7 +14,6 @@ design:
     padding: ["20px", "0", "0", "0"]  
   
 ---
-Mewhirter, J, Welch, R, Wright II, J., & **Oh, J.**. **1033 and Police Militarization: A survey experiment**.
 
 **Oh, J.**, Song, Y., & Tang, T. **Spatial Analysis on Local Legislative and Executive Leadership and Mobile App Management Innovation**.
 
