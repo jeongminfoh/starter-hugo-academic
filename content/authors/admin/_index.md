@@ -72,7 +72,7 @@ I study Public Policy & how to manage government administration </br>
 to find answers to the following questions:</br> 
 </br>
 1. How can we harness technological innovation to translate support for tangible improvements in people's lives into real-world action? </br>
-2. How can we remove psychological and administrative barriers for individuals who need public assistance to access public services?   </br>
+2. How can we eliminate psychological and administrative barriers to accessing public services for individuals in need of public assistance?   </br>
 3. How can we assist economically disadvantaged individuals who have regained hope and are trying to rehabilitate, to prevent them from experiencing setbacks that might cause them to lose hope permanently? </br>
 4. How can we foster work environments that ensure government employees sustain their dedication to public service, free from feelings of overwhelm or frustration, all while aiming for policy success? 
 
