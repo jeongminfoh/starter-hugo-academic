@@ -23,13 +23,6 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Assistant Professor of Public Administration 
-    company: Department of Political Science, Arkansas State University
-    company_url: ''
-    company_logo: 
-    location: Jonesboro, AR
-    date_start: '2023-08-16'
-    date_end: ''
      
   - title: Graduate Assistant & Instructor of Record 
     company: Askew School of Public Administration and Policy, Florida State University
