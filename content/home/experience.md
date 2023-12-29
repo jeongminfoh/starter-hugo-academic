@@ -32,8 +32,8 @@ experience:
     date_end: '2023-04-30'
     description: |2-
     
-        * Fall 2018 - Spring 2021 at the Local Governance Lab & Social Justice Lab
-        * Fall 2021 - Fall 2022: PAD 3003 as instructor of record  
+        * Fall 2018 - Spring 2021: Local Governance Lab, Social Justice Lab
+        * Fall 2021 - Fall 2022: Instructor of record (PAD 3003)
 
   - title: Ph.D Policy Chair 
     company: Public Administration Graduate Association, Florida State University
@@ -72,9 +72,9 @@ experience:
     description: |2-
     
         * Promoted from research assistant in March 2014
-        * Worked also as program Coordinator (Chief Administrative Officer) of Master’s Degree Program on Global e-Government & e-Policy which was funded by the South Korean Government for international development
+        * Worked also as program Coordinator (Chief Administrative Officer) of Master’s Degree Program on Global e-Government & e-Policy which was fully funded by the South Korea Government for international development
 
-  - title: Infantry Company Executive Officer (First Lieutenant) 
+  - title: Company Executive Offier (First Lieutenant) 
     company: 25th Infantry Division, Republic of Korea Army
     company_url: ''
     company_logo: 
@@ -83,7 +83,9 @@ experience:
     date_end: '2011-06-01'
     description: |2-
     
-        * Promoted from infantry platoon leader (Second Lieutenant) in March 2010
+        *  Second in command of the company
+        *  Served at the General Outpost (G.O.P.) in Demilitarized Zone (D.M.Z.)
+        *  Promoted from Rifle Platoon Leader (Second Lieutenant) in March 2010
 
 design:
   columns: '2'
