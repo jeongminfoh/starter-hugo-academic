@@ -84,7 +84,7 @@ experience:
     date_end: '2011-06-01'
     description: |2-
     
-        *  Second in command of the company
+        *  Second in command of Rifle company
         *  Served in a General Outpost (G.O.P.) along the Demilitarized Zone (D.M.Z.)
         *  Promoted from Rifle Platoon Leader (Second Lieutenant) in March 2010
 
