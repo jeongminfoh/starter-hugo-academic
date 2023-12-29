@@ -23,6 +23,15 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+- title: Assistant Professor of Public Administration 
+    company: Department of Political Science, Arkansas State University
+    company_url: ''
+    company_logo: 
+    location: Jonesboro, AR
+    date_start: '2023-08-16'
+    date_end: ''
+    description: |2-
+    
   - title: Graduate Assistant & Instructor of Record 
     company: Askew School of Public Administration and Policy, Florida State University
     company_url: ''
@@ -84,7 +93,7 @@ experience:
     description: |2-
     
         *  Second in command of the company
-        *  Served at the General Outpost (G.O.P.) in Demilitarized Zone (D.M.Z.)
+        *  Served in a General Outpost (G.O.P.) along the Demilitarized Zone (D.M.Z.)
         *  Promoted from Rifle Platoon Leader (Second Lieutenant) in March 2010
 
 design:
