@@ -29,7 +29,7 @@ experience:
     company_logo: 
     location: Jonesboro, AR
     date_start: '2023-08-16'
-    date_end: ''
+    date_end: 
     description: |2-
     
   - title: Graduate Assistant & Instructor of Record 
