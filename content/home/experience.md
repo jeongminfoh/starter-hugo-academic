@@ -30,7 +30,7 @@ experience:
     location: Jonesboro, AR
     date_start: '2023-08-16'
     date_end: ''
-    
+     
   - title: Graduate Assistant & Instructor of Record 
     company: Askew School of Public Administration and Policy, Florida State University
     company_url: ''
