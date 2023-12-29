@@ -14,6 +14,7 @@ subtitle:
 ---
 
 Arkansas State University
+- POSC6473 Strategic Planning, Management & Policy
 - POSC3503 Principles of Public Administration   
 - POSC6613 Administrative Leadership
 
