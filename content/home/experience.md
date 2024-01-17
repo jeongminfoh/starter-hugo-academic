@@ -23,6 +23,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: International Board Member (국제위원회 이사)
+    company: Korean Association for Public Administration (한국정책학회)
+    company_url: ''
+    company_logo: 
+    location: Seoul, Korea
+    date_start: '2024-01-01'
+    date_end: '2024-12-31'
      
   - title: Graduate Assistant & Instructor of Record 
     company: Askew School of Public Administration and Policy, Florida State University
