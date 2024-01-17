@@ -38,7 +38,15 @@ experience:
     location: Seoul, Korea
     date_start: '2024-01-01'
     date_end: '2024-12-31'
-     
+
+  - title: Advisory Board
+    company: American Society for Public Administration (ASPA) Section on Korean Public Administration
+    company_url: ''
+    company_logo: 
+    location: Seoul, Korea
+    date_start: '2022-10-01'
+    date_end: '2024-04-30'
+    
   - title: Graduate Assistant & Instructor of Record 
     company: Askew School of Public Administration and Policy, Florida State University
     company_url: ''
