@@ -3,7 +3,7 @@
 
 title: "Does Administrative Burden Create Racialized Policy Feedback? How Losing Access to Public Benefits Impacts Beliefs about Government"
 authors: ["Elizabeth Bell", "James Wright", admin]
-date: 2023-12-13
+date: 2024-03-13
 publication_types: ["2"]
 
 # Publication name and optional abbreviated version.
