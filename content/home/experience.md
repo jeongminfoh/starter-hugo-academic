@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Secretary
+    company: American Society for Public Administration (ASPA) Section on Korean Public Administration
+    company_url: ''
+    company_logo: 
+    location: Seoul, Korea
+    date_start: '2024-05-01'
+    date_end: '2026-04-30'
+ 
   - title: International Board Member (국제위원회 이사)
     company: Korean Association for Public Administration (한국정책학회)
     company_url: ''
