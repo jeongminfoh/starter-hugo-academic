@@ -7,7 +7,7 @@ date: 2024-01-13
 publication_types: ["2"]
 
 # Publication name and optional abbreviated version.
-publication: "*Journal of Public Administration Research & Theory*, Conditionally Accepted"
+publication: "*Journal of Public Administration Research & Theory*, Forthcoming"
 publication_short: ""
  
 ---
