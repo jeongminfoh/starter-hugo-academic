@@ -23,11 +23,19 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Assistnat Professor
+    company: Arkansas State University
+    company_url: ''
+    company_logo: 
+    location: Jonseboro, AR
+    date_start: '2023-08-15'
+    date_end: '2024-06-30'
+    
   - title: Secretary
     company: American Society for Public Administration (ASPA) Section on Korean Public Administration
     company_url: ''
     company_logo: 
-    location: Seoul, Korea
+    location: D.C., U.S.
     date_start: '2024-05-01'
     date_end: '2026-04-30'
  
@@ -43,7 +51,7 @@ experience:
     company: American Society for Public Administration (ASPA) Section on Korean Public Administration
     company_url: ''
     company_logo: 
-    location: Seoul, Korea
+    location: D.C., U.S.
     date_start: '2022-10-01'
     date_end: '2024-04-30'
     
