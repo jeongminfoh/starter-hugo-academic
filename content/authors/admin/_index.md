@@ -6,7 +6,7 @@ title: Jeongmin Oh
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor </br> Faculty Fellows, Center for Cyber Strategy and Policy </br> School of Public and International Affairs
+role: Assistant Professor </br> School of Public and International Affairs </br> Faculty Fellows, Center for Cyber Strategy and Policy </br> School of Public and International Affairs
 
 # Organizations/Affiliations to show in About widget
 organizations:
