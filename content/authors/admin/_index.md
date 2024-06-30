@@ -6,11 +6,11 @@ title: Jeongmin Oh
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor </br> Department of Political Science
+role: Assistant Professor </br> Faculty Fellows, Center for Cyber Strategy and Policy </br> School of Public and International Affairs
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Arkansas State University
+  - name: University of Cincinnati
     url: https://www.astate.edu/college/liberal-arts/faculty-and-staff/political-science/
 
 # Short bio (displayed in user profile at end of posts)
@@ -20,8 +20,8 @@ bio: My research interests include Behavioral Public Policy, Public Service & Po
 interests:
   - Behavioral Public Policy
   - Public Policy & Service Design
+  - Digital Governance/AI/CyberSecurity
   - Strategic Management
-  - Digital Governance
   - Psychological & Administrative Burden
   - Economic Self Sufficiency & Resilience
 
