@@ -16,7 +16,7 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: joh@astate.edu
+  email: oh2ji@ucmail.uc.edu
   phone: 
   office_hours:
     - ''
