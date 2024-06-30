@@ -14,13 +14,19 @@ subtitle:
 ---
 
 Arkansas State University
-- POSC6473 Strategic Planning, Management & Policy
-- POSC3503 Principles of Public Administration   
-- POSC6613 Administrative Leadership
+- POSC6613 Administrative Leadership (MPA, Online)
+- POSC6563 Seminar in Public Administration (MPA, Online)
+- POSC6473 Strategic Planning, Management & Policy (MPA, Online)
+- POSC3503 Principles of Public Administration (Undergraduate, In person & Online)  
 
 Florida State University
-- PAD3003 Public Administration in American Society   
-- PAD5035 Policy Development and Administration (Graduate Assistant in Teaching)
-- PAD5227 Managing Public Financial Resources (Graduate Assistant in Teaching)
-- PAD5041 Public Service Ethics (Graduate Assistant in Teaching)
+- PAD5227 Managing Public Financial Resources (MPA, Online, Graduate Assistant in Teaching)
+- PAD5041 Public Service Ethics (MPA, Online, Graduate Assistant in Teaching)
+- PAD5035 Policy Development and Administration (MPA, Online, Graduate Assistant in Teaching)
+- PAD3003 Public Administration in American Society (Undergraduate, In person & Online)  
 
+Sungkyunkwan University
+- GSP5078 Seminar on Information Policy (MPA, In person, Graduate Assistant in Teaching)   
+- GSP5077 Seminar on Electronic Government (MPA, In person, Graduate Assistant in Teaching)
+- PAD2016 Policy Analysis (Undergraduate, In person, Graduate Assistant in Teaching)
+- PAD2001 Theories of Policy Science (Undergraduate, In person, Graduate Assistant in Teaching)
