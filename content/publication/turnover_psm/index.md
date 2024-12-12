@@ -3,7 +3,7 @@
 
 title: "Tolerance of Organizational Injustice? The Moderating Role of Public Service Motivation on Turnover Intention"
 authors: ["Jihyun Byun", admin, "Seong Soo Oh"]
-date: 2025-01-11
+date: 2024-12-11
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
