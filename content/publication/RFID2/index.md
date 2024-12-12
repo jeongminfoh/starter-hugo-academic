@@ -3,7 +3,7 @@
 
 title: "Pay Now or Later? Policy Tools, Smart Technology and Behavior"
 authors: [admin, "Seonghyun Kim","Jaeyoung Jang"]
-date: 2024-11-11
+date: 2024-12-01
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
