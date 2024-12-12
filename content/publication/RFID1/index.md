@@ -3,7 +3,7 @@
 
 title: "Price Salience and the Design of Market-Based Environmental Policies: A Comparison between Food Waste Pricing Policies in South Korea"
 authors: ["Seonghyun Kim", "Jaeyoung Jang", admin]
-date: 2024-11-11
+date: 2024-12-11
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
