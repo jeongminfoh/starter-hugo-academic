@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Strategic Management for Local Sustainability: Decoupling between Strategic Planning and Performance Measurements"
-authors: [admin, "Sung-wook Kwon", "Frances Berry"]
+authors: [admin, "Sung-wook Kwon"]
 date: 2023-01-11
 publication_types: ["3"]
 
