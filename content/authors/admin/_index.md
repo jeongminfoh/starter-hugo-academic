@@ -67,13 +67,13 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-I study Public Policy & how to manage government administration </br> 
-to find answers to the following questions:</br> 
+</br> 
+I study <b>public policy and the management of government administration</b> </br> 
+to explore questions that matter in people’s lives: </br> 
 </br>
-1. How can we harness technological innovation to translate support for tangible improvements in people's lives into real-world action? </br>
-2. How can we eliminate psychological and administrative barriers to accessing public services for individuals in need of public assistance?   </br>
-3. How can we assist economically disadvantaged individuals who have regained hope and are trying to rehabilitate, to prevent them from experiencing setbacks that might cause them to lose hope permanently? </br>
-4. How can we foster work environments that ensure government employees sustain their dedication to public service, free from feelings of overwhelm or frustration, all while aiming for policy success? 
+1. <b>How can we harness technological innovation </b>  to turn public support into real, measurable </br> improvements for communities? </br>
+2. <b>How can we remove psychological and bureaucratic barriers</b> that prevent individuals in need from </br> accessing the public services?   </br>
+3. <b>How can we support those who are trying to rebuild their lives</b>—especially economically </br> disadvantaged individuals—so they don’t lose hope after setbacks? </br>
+4. <b>How can we create work environments for public workforces </b> that sustain motivation and purpose, </br> without frustration, while still pushing toward meaningful policy outcomes? 
 
 
