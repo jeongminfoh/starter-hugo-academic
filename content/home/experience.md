@@ -32,7 +32,7 @@ experience:
     date_end: '2024-06-30'
     
   - title: Secretary
-    company: American Society for Public Administration (ASPA) Section on Korean Public Administration
+    company: Section on Korean Public Administration, American Society for Public Administration (ASPA) 
     company_url: ''
     company_logo: 
     location: D.C., U.S.
@@ -45,26 +45,25 @@ experience:
     company_logo: 
     location: Seoul, Korea
     date_start: '2024-01-01'
-    date_end: '2024-12-31'
+    date_end: '2025-12-31'
 
   - title: Advisory Board
-    company: American Society for Public Administration (ASPA) Section on Korean Public Administration
+    company: Section on Korean Public Administration, American Society for Public Administration (ASPA) 
     company_url: ''
     company_logo: 
     location: D.C., U.S.
     date_start: '2022-10-01'
     date_end: '2024-04-30'
     
-  - title: Graduate Assistant & Instructor of Record 
+  - title: Instructor of Record 
     company: Askew School of Public Administration and Policy, Florida State University
     company_url: ''
     company_logo: 
     location: Tallahassee, FL
-    date_start: '2020-08-01'
-    date_end: '2023-04-30'
+    date_start: '2021-08-01'
+    date_end: '2022-12-30'
     description: |2-
     
-        * Fall 2018 - Spring 2021: Local Governance Lab, Social Justice Lab
         * Fall 2021 - Fall 2022: Instructor of record (PAD 3003)
 
   - title: Ph.D Policy Chair 
@@ -76,8 +75,6 @@ experience:
     date_end: '2020-07-31'
     description: |2-
     
-        * As Ph.D. student representative, attended the Ph.D. Committee meetings at the Reubin O’D. Askew School of Public Administration and Policy  
-
   - title: Data Analyst 
     company: Civitek, Florida Association of Court Clerks and Comptrollers
     company_url: ''
