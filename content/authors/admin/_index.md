@@ -6,7 +6,7 @@ title: Jeongmin Oh
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor </br> School of Public and International Affairs </br> Faculty Fellows </br> Center for Cyber Strategy and Policy </br> School of Public and International Affairs
+role: Assistant Professor </br> School of Public and International Affairs </br> </br> Faculty Fellows </br> Center for Cyber Strategy and Policy </br> School of Public and International Affairs
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
     url: https://www.astate.edu/college/liberal-arts/faculty-and-staff/political-science/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Behavioral Public Policy, Public Service & Policy Design and Digital Governance.
+bio: My research interests include Behavioral Public Policy, Administrative Burden and Digital Governance.
 
 # Interests to show in About widget
 interests:
