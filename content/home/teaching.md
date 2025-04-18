@@ -12,7 +12,12 @@ weight: 40
 title: 'Teaching'
 subtitle:
 ---
-
+University of Cincinnati
+- POL7114 Strategic Management and Planning in the Public Sector (MPA)
+- POL7112 Public Sector Technology Policy and Management (MPA)
+- POL7111 Smart and Sustainable Communities (MPA)
+- POL7101 Introduction to Public Administration (MPA)
+  
 Arkansas State University
 - POSC6613 Administrative Leadership (MPA, Online)
 - POSC6563 Seminar in Public Administration (MPA, Online)
