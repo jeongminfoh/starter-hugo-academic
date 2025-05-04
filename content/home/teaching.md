@@ -19,19 +19,10 @@ University of Cincinnati
 - POL7101 Introduction to Public Administration (MPA)
   
 Arkansas State University
-- POSC6613 Administrative Leadership (MPA, Online)
-- POSC6563 Seminar in Public Administration (MPA, Online)
-- POSC6473 Strategic Planning, Management & Policy (MPA, Online)
-- POSC3503 Principles of Public Administration (Undergraduate, In person & Online)  
+- POSC6613 Administrative Leadership (MPA)
+- POSC6563 Seminar in Public Administration (MPA)
+- POSC6473 Strategic Planning, Management & Policy (MPA)
+- POSC3503 Principles of Public Administration (Undergraduate)  
 
 Florida State University
-- PAD5227 Managing Public Financial Resources (MPA, Online, Graduate Assistant in Teaching)
-- PAD5041 Public Service Ethics (MPA, Online, Graduate Assistant in Teaching)
-- PAD5035 Policy Development and Administration (MPA, Online, Graduate Assistant in Teaching)
-- PAD3003 Public Administration in American Society (Undergraduate, In person & Online)  
-
-Sungkyunkwan University
-- GSP5078 Seminar on Information Policy (MPA, In person, Graduate Assistant in Teaching)   
-- GSP5077 Seminar on Electronic Government (MPA, In person, Graduate Assistant in Teaching)
-- PAD2016 Policy Analysis (Undergraduate, In person, Graduate Assistant in Teaching)
-- PAD2001 Theories of Policy Science (Undergraduate, In person, Graduate Assistant in Teaching)
+- PAD3003 Public Administration in American Society (Undergraduate)  
