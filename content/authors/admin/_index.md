@@ -68,7 +68,7 @@ email: ''
 highlight_name: true
 ---
 </br> 
-I study <b>public policy and the management of government administration</b> </br> 
+I study <b>public policy</b> and the <b>management of government administration</b> </br> 
 to explore questions that matter in people’s lives: </br> 
 </br>
 1. <b>How can we harness technological innovation </b>  to turn public support into real, measurable </br> improvements for communities? </br>
