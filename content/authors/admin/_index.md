@@ -68,9 +68,9 @@ email: ''
 highlight_name: true
 ---
 </br> 
-1. <b>How can we harness technological innovation </b>  to turn public support into real, measurable </br> improvements for communities? </br>
-2. <b>How can we remove psychological and bureaucratic barriers</b> that prevent individuals in need from </br> accessing the public services?   </br>
-3. <b>How can we support those who are trying to rebuild their lives</b>—especially economically </br> disadvantaged individuals—so they don’t lose hope after setbacks? </br>
-4. <b>How can we create work environments for public workforces </b> that sustain motivation and purpose, </br> without frustration, while still pushing toward meaningful policy outcomes? 
+1. <b>How can we use technology</b> to turn public policy and government management into real, measurable benefits for communities? </br>
+2. What can we do to remove <b>psychological and bureaucratic barriers</b> that stop people in need from accessing public services?   </br>
+3. <b>How do we support those rebuilding their lives</b>—especially under resourced communities—so they don’t lose hope after setbacks? </br>
+4. <b>How can we create a public‐sector work environment</b> that keeps employees motivated and focused on meaningful outcomes, without causing frustration? 
 
 
