@@ -7,7 +7,7 @@ date: 2025-09-04
 publication_types: ["2"]
 
 # Publication name and optional abbreviated version.
-publication: "Journal of Comparative Policy Analysis (Corresponding Author)"
+publication: "*Journal of Comparative Policy Analysis* (Corresponding Author)"
 publication_short: ""
 
 # Abstract and optional shortened version.
