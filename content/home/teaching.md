@@ -13,6 +13,7 @@ title: 'Teaching'
 subtitle:
 ---
 University of Cincinnati
+- POL7103 Organizational Theory and Behavior (MPA)
 - POL7114 Strategic Management and Planning in the Public Sector (MPA)
 - POL7112 Public Sector Technology Policy and Management (MPA)
 - POL7111 Smart and Sustainable Communities (MPA)
