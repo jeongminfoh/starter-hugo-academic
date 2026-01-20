@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Tolerance of Organizational Injustice? The Moderating Role of Public Service Motivation on Turnover Intention"
-authors: ["Jihyun Byun", admin, "Seong Soo Oh"]
-date: 2024-10-01
-publication_types: ["3"]
+title: "Tolerance of Injustice? How Public Service Motivation Shapes Turnover Intentions Under Perceived Organizational Injustice"
+authors: ["Seong Soo Oh" , Jihyun Byun", "Haehwan Jung", admin ]
+date: 2026-01-20
+publication_types: ["2"]
 
 # Publication name and optional abbreviated version.
-publication: "Working Paper"
+publication: "*Public Personnel Management* (Corresponding Author) *Conditional Acceptance*"
 publication_short: ""
 
 # Abstract and optional shortened version.
