@@ -17,11 +17,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: oh2ji@ucmail.uc.edu
-  phone: 
-  office_hours:
-    - ''
-    - ''
-  appointment_url: ''
+
   
     
 
