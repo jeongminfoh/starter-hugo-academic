@@ -1,35 +1,49 @@
- 
-/* ================================
-   ABOUT TITLE (FINAL - WORKING)
-   Targets Wowchemy About widget title (often plain <h1>)
-================================ */
+/* =========================================================
+   ABOUT TITLE (FINAL ONLY)
+   - centered block + stair-step indentation
+   - readable size (not tiny)
+   - bold + a bit more line spacing
+========================================================= */
 
 section#about.wg-about h1,
 section#about.wg-about .section-title {
-  text-align: center !important;
+  /* 제목 블록 자체를 가운데에 “덩어리로” 배치 */
+  width: fit-content !important;
+  margin: 0 auto 1.1rem auto !important;
+
+  /* 계단식은 왼쪽 기준으로 잡아야 함 */
+  text-align: left !important;
+
   font-weight: 800 !important;
-  line-height: 1.06 !important;
-  letter-spacing: -0.01em;
+  letter-spacing: -0.01em !important;
+  line-height: 1.12 !important;
 
-  /* ✅ 작은 글씨 */
-  font-size: clamp(0.62rem, 1.00vw, 1.05rem) !important;
-
-  white-space: normal !important; /* allow <br> */
-  max-width: none !important;
-  margin: 0 auto 0.55rem auto !important;
+  /* ✅ 글씨 크기: 데스크탑/모바일 모두 적당히 */
+  font-size: clamp(1.15rem, 1.55vw, 1.55rem) !important;
 }
 
-/* stair-step lines */
-section#about.wg-about .about-title-line { display: inline-block; }
-section#about.wg-about .about-title-line.l1 { transform: translateX(0); }
-section#about.wg-about .about-title-line.l2 { transform: translateX(0.75rem); }
-section#about.wg-about .about-title-line.l3 { transform: translateX(1.50rem); }
+/* 각 줄을 블록으로 만들고 줄간격 조금 추가 */
+section#about.wg-about .about-title-line {
+  display: block !important;
+  margin-top: 0.10rem !important;
+}
 
+/* ✅ 계단식 들여쓰기(요청한 느낌) */
+section#about.wg-about .about-title-line.l1 { padding-left: 0 !important; }
+section#about.wg-about .about-title-line.l2 { padding-left: 2.6rem !important; }
+section#about.wg-about .about-title-line.l3 { padding-left: 5.2rem !important; }
+
+/* 모바일에서는 너무 많이 밀리면 보기 안 좋으니 step 줄이기 */
 @media (max-width: 575.98px) {
-  section#about.wg-about .about-title-line.l2 { transform: translateX(0.40rem); }
-  section#about.wg-about .about-title-line.l3 { transform: translateX(0.85rem); }
+  section#about.wg-about h1,
+  section#about.wg-about .section-title {
+    font-size: clamp(1.20rem, 5.2vw, 1.55rem) !important;
+  }
+  section#about.wg-about .about-title-line.l2 { padding-left: 1.6rem !important; }
+  section#about.wg-about .about-title-line.l3 { padding-left: 3.2rem !important; }
 }
 
+ 
 /* ================================
    ABOUT FOCUS (FINAL - HKS minimal)
 ================================ */
