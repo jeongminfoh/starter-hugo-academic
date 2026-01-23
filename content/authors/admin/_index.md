@@ -45,12 +45,16 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+  - icon: linkedin
+    icon_pack: fab
+    link: [https://github.com/jeongminfoh](https://www.linkedin.com/in/jeongmin-oh-2020939b/)
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
   - icon: github
     icon_pack: fab
     link: https://github.com/jeongminfoh
+
 
 
 # Link to a PDF of your resume/CV.
@@ -61,7 +65,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'oh2ji@ucmail.uc.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
