@@ -86,11 +86,7 @@ html.dark .wg-about .focus-icon {
 }
 
 /* =========================================
-   ABOUT TITLE (FINAL)
-   - 3 lines (using <span> + <br> in about.md)
-   - small + bold
-   - centered (within right column)
-   - stair-step via translateX (visual only)
+   ABOUT TITLE (FINAL - KEEP ONLY THIS)
 ========================================= */
 
 .home-section#about .section-heading,
@@ -98,7 +94,7 @@ html.dark .wg-about .focus-icon {
   text-align: center !important;
 }
 
-/* title element (h1/h2/section-title) */
+/* target h1/h2/title inside About widget */
 .home-section#about .section-heading h1,
 .home-section#about .section-heading h2,
 .home-section.wg-about .section-heading h1,
@@ -110,25 +106,24 @@ html.dark .wg-about .focus-icon {
   line-height: 1.06 !important;
   letter-spacing: -0.01em;
 
-  /* ✅ 더 작게 (안 커지게) */
-  font-size: clamp(0.86rem, 1.05vw, 1.10rem) !important;
+  /* ✅ smaller, stable on desktop + mobile */
+  font-size: clamp(0.82rem, 1.00vw, 1.05rem) !important;
 
-  /* ✅ <br> 줄바꿈 유지 */
-  white-space: normal !important;
+  white-space: normal !important;   /* allow <br> */
   max-width: none !important;
-
   margin: 0 auto 0.55rem auto !important;
 }
 
-/* stair-step lines */
+/* stair-step indentation (visual only) */
 .about-title-line { display: inline-block; }
 .about-title-line.l1 { transform: translateX(0); }
-.about-title-line.l2 { transform: translateX(0.8rem); }
-.about-title-line.l3 { transform: translateX(1.6rem); }
+.about-title-line.l2 { transform: translateX(0.75rem); }
+.about-title-line.l3 { transform: translateX(1.50rem); }
 
-/* mobile: step weaker */
+/* mobile: softer step */
 @media (max-width: 575.98px) {
-  .about-title-line.l2 { transform: translateX(0.45rem); }
-  .about-title-line.l3 { transform: translateX(0.90rem); }
+  .about-title-line.l2 { transform: translateX(0.40rem); }
+  .about-title-line.l3 { transform: translateX(0.85rem); }
 }
+ 
 
