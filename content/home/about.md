@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Turning policy and governance insights into better lives!
+title: Public Policy & Government Management, Real-World Impact!
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
