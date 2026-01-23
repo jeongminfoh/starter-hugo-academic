@@ -90,7 +90,7 @@ highlight_name: true
   </div>
 
   <div class="focus-item">
-    <div class="focus-icon"><i class="fas fa-project-diagram" aria-hidden="true"></i></div>
+    <div class="focus-icon"><i class="fas fa-route" aria-hidden="true"></i></div>
     <div class="focus-text">
       <div class="focus-title">Access → lower burden</div>
       <div class="focus-sub">Reducing administrative and psychological frictions in service delivery.</div>
