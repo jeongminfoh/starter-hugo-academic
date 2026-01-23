@@ -1,60 +1,45 @@
-/* =========================================
-   ABOUT TITLE (FINAL)
-   - Center the whole title block
-   - Left-align inside the block (so indentation shows)
-   - Bigger font (not tiny)
-   - Larger vertical gaps
-   - Stair-step indent via padding-left (NOT spaces)
-========================================= */
+/* =========================================================
+   ABOUT TITLE (FINAL ONLY)
+   - centered block + stair-step indentation
+   - readable size (not tiny)
+   - bold + a bit more line spacing
+========================================================= */
 
-.home-section#about .section-heading,
-.home-section.wg-about .section-heading,
-#about .section-heading {
-  text-align: center !important;
-}
+section#about.wg-about h1,
+section#about.wg-about .section-title {
+  /* 제목 블록 자체를 가운데에 “덩어리로” 배치 */
+  width: fit-content !important;
+  margin: 0 auto 1.1rem auto !important;
 
-/* h1/h2/title target (Wowchemy versions differ) */
-.home-section#about .section-heading h1,
-.home-section#about .section-heading h2,
-.home-section.wg-about .section-heading h1,
-.home-section.wg-about .section-heading h2,
-#about .section-title,
-.wg-about .section-title {
-  display: inline-block !important;   /* block itself can be centered */
-  text-align: left !important;        /* so the indent “reads” */
+  /* 계단식은 왼쪽 기준으로 잡아야 함 */
+  text-align: left !important;
+
   font-weight: 800 !important;
-  letter-spacing: -0.015em !important;
-  line-height: 1.05 !important;
-  margin: 0 auto 1.0rem auto !important;
+  letter-spacing: -0.01em !important;
+  line-height: 1.12 !important;
 
-  /* ✅ desktop에서 너무 작지 않게 */
-  font-size: clamp(1.45rem, 2.05vw, 2.15rem) !important;
+  /* ✅ 글씨 크기: 데스크탑/모바일 모두 적당히 */
+  font-size: clamp(1.15rem, 1.55vw, 1.55rem) !important;
 }
 
-/* each line becomes its own block so padding works cleanly */
-.home-section#about .about-title-line,
-.home-section.wg-about .about-title-line,
-#about .about-title-line {
+/* 각 줄을 블록으로 만들고 줄간격 조금 추가 */
+section#about.wg-about .about-title-line {
   display: block !important;
+  margin-top: 0.10rem !important;
 }
 
-/* ✅ 원하는 “계단식” 들여쓰기 + 줄 사이 간격 */
-.home-section#about .about-title-line.l1 { padding-left: 0rem; }
-.home-section#about .about-title-line.l2 { padding-left: 2.2rem; margin-top: 0.70rem; }
-.home-section#about .about-title-line.l3 { padding-left: 4.4rem; margin-top: 0.70rem; }
+/* ✅ 계단식 들여쓰기(요청한 느낌) */
+section#about.wg-about .about-title-line.l1 { padding-left: 0 !important; }
+section#about.wg-about .about-title-line.l2 { padding-left: 2.6rem !important; }
+section#about.wg-about .about-title-line.l3 { padding-left: 5.2rem !important; }
 
-/* mobile: 글자/들여쓰기/간격을 줄여서 자연스럽게 */
+/* 모바일에서는 너무 많이 밀리면 보기 안 좋으니 step 줄이기 */
 @media (max-width: 575.98px) {
-  .home-section#about .section-heading h1,
-  .home-section#about .section-heading h2,
-  .home-section.wg-about .section-heading h1,
-  .home-section.wg-about .section-heading h2,
-  #about .section-title,
-  .wg-about .section-title {
-    font-size: clamp(1.25rem, 5.8vw, 1.65rem) !important;
+  section#about.wg-about h1,
+  section#about.wg-about .section-title {
+    font-size: clamp(1.20rem, 5.2vw, 1.55rem) !important;
   }
-
-  .home-section#about .about-title-line.l2 { padding-left: 1.3rem; margin-top: 0.45rem; }
-  .home-section#about .about-title-line.l3 { padding-left: 2.6rem; margin-top: 0.45rem; }
+  section#about.wg-about .about-title-line.l2 { padding-left: 1.6rem !important; }
+  section#about.wg-about .about-title-line.l3 { padding-left: 3.2rem !important; }
 }
-  
+
