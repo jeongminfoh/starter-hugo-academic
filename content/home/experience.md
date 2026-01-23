@@ -23,11 +23,11 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Assistnat Professor, Department of Political Science
+  - title: Assistant Professor, Department of Political Science
     company: Arkansas State University
     company_url: ''
     company_logo: 
-    location: Jonseboro, AR
+    location: Jonesboro, AR
     date_start: '2023-08-15'
     date_end: '2024-06-30'
     
@@ -103,7 +103,7 @@ experience:
         * Promoted from research assistant in March 2014
         * Worked also as program Coordinator (Chief Administrative Officer) of Master’s Degree Program on Global e-Government & e-Policy which was fully funded by the South Korea Government for international development
 
-  - title: Company Executive Offier (First Lieutenant) 
+  - title: Company Executive Officer (First Lieutenant) 
     company: 25th Infantry Division, Republic of Korea Army
     company_url: ''
     company_logo: 
