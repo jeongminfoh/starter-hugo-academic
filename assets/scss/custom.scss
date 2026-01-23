@@ -1,125 +1,60 @@
-/* =========================================================
-   ABOUT TITLE (FINAL ONLY)
-   - centered block + stair-step indentation
-   - readable size (not tiny)
-   - bold + a bit more line spacing
-========================================================= */
+/* =========================================
+   ABOUT TITLE (FINAL)
+   - Center the whole title block
+   - Left-align inside the block (so indentation shows)
+   - Bigger font (not tiny)
+   - Larger vertical gaps
+   - Stair-step indent via padding-left (NOT spaces)
+========================================= */
 
-section#about.wg-about h1,
-section#about.wg-about .section-title {
-  /* 제목 블록 자체를 가운데에 “덩어리로” 배치 */
-  width: fit-content !important;
-  margin: 0 auto 1.1rem auto !important;
+.home-section#about .section-heading,
+.home-section.wg-about .section-heading,
+#about .section-heading {
+  text-align: center !important;
+}
 
-  /* 계단식은 왼쪽 기준으로 잡아야 함 */
-  text-align: left !important;
-
+/* h1/h2/title target (Wowchemy versions differ) */
+.home-section#about .section-heading h1,
+.home-section#about .section-heading h2,
+.home-section.wg-about .section-heading h1,
+.home-section.wg-about .section-heading h2,
+#about .section-title,
+.wg-about .section-title {
+  display: inline-block !important;   /* block itself can be centered */
+  text-align: left !important;        /* so the indent “reads” */
   font-weight: 800 !important;
-  letter-spacing: -0.01em !important;
-  line-height: 1.12 !important;
+  letter-spacing: -0.015em !important;
+  line-height: 1.05 !important;
+  margin: 0 auto 1.0rem auto !important;
 
-  /* ✅ 글씨 크기: 데스크탑/모바일 모두 적당히 */
-  font-size: clamp(1.15rem, 1.55vw, 1.55rem) !important;
+  /* ✅ desktop에서 너무 작지 않게 */
+  font-size: clamp(1.45rem, 2.05vw, 2.15rem) !important;
 }
 
-/* 각 줄을 블록으로 만들고 줄간격 조금 추가 */
-section#about.wg-about .about-title-line {
+/* each line becomes its own block so padding works cleanly */
+.home-section#about .about-title-line,
+.home-section.wg-about .about-title-line,
+#about .about-title-line {
   display: block !important;
-  margin-top: 0.10rem !important;
 }
 
-/* ✅ 계단식 들여쓰기(요청한 느낌) */
-section#about.wg-about .about-title-line.l1 { padding-left: 0 !important; }
-section#about.wg-about .about-title-line.l2 { padding-left: 2.6rem !important; }
-section#about.wg-about .about-title-line.l3 { padding-left: 5.2rem !important; }
+/* ✅ 원하는 “계단식” 들여쓰기 + 줄 사이 간격 */
+.home-section#about .about-title-line.l1 { padding-left: 0rem; }
+.home-section#about .about-title-line.l2 { padding-left: 2.2rem; margin-top: 0.70rem; }
+.home-section#about .about-title-line.l3 { padding-left: 4.4rem; margin-top: 0.70rem; }
 
-/* 모바일에서는 너무 많이 밀리면 보기 안 좋으니 step 줄이기 */
+/* mobile: 글자/들여쓰기/간격을 줄여서 자연스럽게 */
 @media (max-width: 575.98px) {
-  section#about.wg-about h1,
-  section#about.wg-about .section-title {
-    font-size: clamp(1.20rem, 5.2vw, 1.55rem) !important;
-  }
-  section#about.wg-about .about-title-line.l2 { padding-left: 1.6rem !important; }
-  section#about.wg-about .about-title-line.l3 { padding-left: 3.2rem !important; }
-}
-
- 
-/* ================================
-   ABOUT FOCUS (FINAL - HKS minimal)
-================================ */
-
-section#about.wg-about .about-focus{
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 0.55rem;
-  margin-top: 0.45rem;
-  margin-bottom: 0.15rem;
-}
-
-@media (min-width: 768px){
-  section#about.wg-about .about-focus{
-    grid-template-columns: 1fr 1fr;
-    gap: 0.65rem 1.4rem;
-  }
-}
-
-section#about.wg-about .focus-item{
-  display: grid;
-  grid-template-columns: 2.1rem 1fr;
-  align-items: start;
-  column-gap: 0.55rem;
-
-  border: none !important;
-  background: transparent !important;
-
-  padding: 0.15rem 0.10rem !important;
-  text-align: left !important;
-}
-
-section#about.wg-about .focus-icon{
-  width: 2.05rem;
-  height: 2.05rem;
-  border-radius: 999px;
-  border: 1px solid rgba(0,0,0,0.10);
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  opacity: 0.85;
-  margin: 0 !important;
-}
-
-html.dark section#about.wg-about .focus-icon{
-  border-color: rgba(255,255,255,0.16);
-}
-
-section#about.wg-about .focus-icon i{
-  font-size: 0.95rem;
-}
-
-section#about.wg-about .focus-title{
-  font-weight: 700;
-  line-height: 1.18;
-  letter-spacing: -0.01em;
-  margin: 0;
-  font-size: 0.98rem;
-}
-
-section#about.wg-about .focus-sub{
-  margin: 0.12rem 0 0 0;
-  line-height: 1.38;
-  font-size: 0.90rem;
-  opacity: 0.82;
-}
-
-@media (max-width: 575.98px){
-  section#about.wg-about .focus-item{
-    grid-template-columns: 1fr;
-    text-align: center !important;
-    justify-items: center;
-    row-gap: 0.30rem;
+  .home-section#about .section-heading h1,
+  .home-section#about .section-heading h2,
+  .home-section.wg-about .section-heading h1,
+  .home-section.wg-about .section-heading h2,
+  #about .section-title,
+  .wg-about .section-title {
+    font-size: clamp(1.25rem, 5.8vw, 1.65rem) !important;
   }
 
-  section#about.wg-about .focus-icon{
-    margin: 0 auto !important;
-  }
+  .home-section#about .about-title-line.l2 { padding-left: 1.3rem; margin-top: 0.45rem; }
+  .home-section#about .about-title-line.l3 { padding-left: 2.6rem; margin-top: 0.45rem; }
 }
+  
