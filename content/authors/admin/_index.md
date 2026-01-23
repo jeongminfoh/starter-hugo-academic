@@ -70,10 +70,51 @@ email: 'oh2ji@ucmail.uc.edu'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
+<!-- OLD (backup)
+
 </br> 
 1. <b>How can we use technology</b> to turn public policy and government management into real, measurable benefits for communities? </br>
 2. What can we do to remove <b>psychological and bureaucratic barriers</b> that stop people in need from accessing public services?   </br>
 3. <b>How do we support those rebuilding their lives</b>—especially under resourced communities—so they don’t lose hope after setbacks? </br>
 4. <b>How can we create a public‐sector work environment</b> that keeps employees motivated and focused on meaningful outcomes, without causing frustration? 
+-->
 
+<div class="about-focus">
+  <div class="focus-item">
+    <div class="focus-icon"><i class="fas fa-microchip" aria-hidden="true"></i></div>
+    <div class="focus-text">
+      <div class="focus-title">Technology → public value</div>
+      <div class="focus-sub">Turning digital tools into measurable community outcomes.</div>
+    </div>
+  </div>
+
+  <div class="focus-item">
+    <div class="focus-icon"><i class="fas fa-route" aria-hidden="true"></i></div>
+    <div class="focus-text">
+      <div class="focus-title">Access → lower burden</div>
+      <div class="focus-sub">Reducing administrative and psychological frictions in service delivery.</div>
+    </div>
+  </div>
+
+  <div class="focus-item">
+    <div class="focus-icon"><i class="fas fa-hand-holding-heart" aria-hidden="true"></i></div>
+    <div class="focus-text">
+      <div class="focus-title">Resilience → recovery</div>
+      <div class="focus-sub">Supporting rebuilding after setbacks in under-resourced communities.</div>
+    </div>
+  </div>
+
+  <div class="focus-item">
+    <div class="focus-icon"><i class="fas fa-users-cog" aria-hidden="true"></i></div>
+    <div class="focus-text">
+      <div class="focus-title">Organizations → motivation</div>
+      <div class="focus-sub">Designing work environments that sustain meaning and performance.</div>
+    </div>
+  </div>
+</div>
+
+<div class="about-links small">
+  <a href="/research/">Research</a> · <a href="/#contact">Contact</a>
+</div>
 
