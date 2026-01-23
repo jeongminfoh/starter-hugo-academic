@@ -1,11 +1,69 @@
-/* (A) About 제목(“Turning …”) 글씨: 확실히 조금만 줄이기 */
-.wg-about .section-heading h1,
-.wg-about .section-title {
-  font-size: clamp(1.25rem, 1.35vw, 1.65rem) !important;
-  line-height: 1.12 !important;
+/***********************
+  ABOUT TITLE (RESPONSIVE)
+  - Desktop: 1 line
+  - Mobile: 2 lines (wrap)
+  - Center + Bold
+************************/
+
+/* section heading container를 강제로 가운데 정렬 */
+.home-section#about .section-heading,
+.home-section.wg-about .section-heading,
+#about .section-heading {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  text-align: center !important;
 }
 
-/* (B) 4개 focus: 2x2 그리드로 컴팩트하게 (데스크톱) */
+/* 제목 요소가 h1이든 h2든 .section-title이든 다 잡기 */
+.home-section#about .section-heading h1,
+.home-section#about .section-heading h2,
+.home-section.wg-about .section-heading h1,
+.home-section.wg-about .section-heading h2,
+#about .section-title,
+.wg-about .section-title {
+  width: 100%;
+  text-align: center !important;
+
+  font-weight: 800 !important;               /* 볼드 강하게 */
+  font-variation-settings: "wght" 800;       /* 변수폰트면 더 확실 */
+  line-height: 1.10 !important;
+  letter-spacing: -0.01em;
+
+  margin: 0 auto 0.65rem auto !important;
+}
+
+/* Desktop: 무조건 1줄 */
+@media (min-width: 992px) {
+  .home-section#about .section-heading h1,
+  .home-section#about .section-heading h2,
+  .home-section.wg-about .section-heading h1,
+  .home-section.wg-about .section-heading h2,
+  #about .section-title,
+  .wg-about .section-title {
+    white-space: nowrap !important;
+    font-size: clamp(1.10rem, 1.15vw, 1.55rem) !important;
+  }
+}
+
+/* Mobile/Tablet: 2줄 유도(자동 줄바꿈) */
+@media (max-width: 991.98px) {
+  .home-section#about .section-heading h1,
+  .home-section#about .section-heading h2,
+  .home-section.wg-about .section-heading h1,
+  .home-section.wg-about .section-heading h2,
+  #about .section-title,
+  .wg-about .section-title {
+    white-space: normal !important;
+    max-width: 26ch;                          /* 2줄로 보기 좋게 */
+    font-size: clamp(1.15rem, 5.2vw, 1.55rem) !important;
+  }
+}
+
+/***********************
+  ABOUT FOCUS (4 items)
+************************/
+
 .wg-about .about-focus {
   display: grid;
   grid-template-columns: 1fr;
@@ -20,23 +78,19 @@
   }
 }
 
-/* (C) 박스선(테두리/배경) 제거 + 중앙정렬 유지 + 높이 줄이기 */
 .wg-about .focus-item {
   display: flex;
   flex-direction: column;
   align-items: center;
   text-align: center;
 
-  /* 박스 느낌 제거 */
   border: none !important;
   background: transparent !important;
 
-  /* 높이 컴팩트 */
   padding: 0.35rem 0.4rem !important;
   gap: 0.35rem;
 }
 
-/* (D) 아이콘 원은 유지하되 조금 작게 */
 .wg-about .focus-icon {
   width: 2.0rem;
   height: 2.0rem;
@@ -53,7 +107,6 @@ html.dark .wg-about .focus-icon {
   border-color: rgba(255,255,255,0.18);
 }
 
-/* (E) 글도 컴팩트 */
 .wg-about .focus-title {
   font-weight: 600;
   margin: 0;
@@ -67,49 +120,4 @@ html.dark .wg-about .focus-icon {
   line-height: 1.35;
 }
 
-/* About(첫 화면) 제목 더 작게 — 강제 오버라이드 */
-.home-section.wg-about .section-heading h1,
-.home-section.wg-about h1,
-.home-section#about .section-heading h1,
-.home-section#about h1,
-.wg-about .hero-title {
-  font-size: clamp(1.35rem, 1.55vw, 1.85rem) !important;
-  line-height: 1.12 !important;
-  letter-spacing: -0.02em;
-  margin-bottom: 0.5rem !important;
-}
-
-/* About 제목: 가운데 + 볼드 (공통) */
-.home-section.wg-about .section-heading,
-.home-section#about .section-heading {
-  text-align: center !important;
-}
-
-.home-section.wg-about .section-heading h1,
-.home-section#about .section-heading h1 {
-  text-align: center !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  font-weight: 700 !important;
-  line-height: 1.12 !important;
-  letter-spacing: -0.01em;
-}
-
-/* 데스크탑: 한 줄 고정 */
-@media (min-width: 992px) {
-  .home-section.wg-about .section-heading h1,
-  .home-section#about .section-heading h1 {
-    white-space: nowrap !important;
-    font-size: clamp(1.25rem, 1.35vw, 1.65rem) !important;
-  }
-}
-
-/* 모바일/태블릿: 두 줄로 보기 좋게(자동) */
-@media (max-width: 991.98px) {
-  .home-section.wg-about .section-heading h1,
-  .home-section#about .section-heading h1 {
-    white-space: normal !important;
-    max-width: 26ch; /* 2줄 유도 */
-    font-size: clamp(1.1rem, 5.2vw, 1.55rem) !important;
-  }
 
