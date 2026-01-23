@@ -82,7 +82,7 @@ highlight_name: true
 
 <div class="about-focus">
   <div class="focus-item">
-    <div class="focus-icon"><i class="fas microchip" aria-hidden="true"></i></div>
+    <div class="focus-icon"><i class="fas fa-microchip" aria-hidden="true"></i></div>
     <div class="focus-text">
       <div class="focus-title">Technology → public value</div>
       <div class="focus-sub">Turning digital tools into measurable community outcomes.</div>
@@ -90,7 +90,7 @@ highlight_name: true
   </div>
 
   <div class="focus-item">
-    <div class="focus-icon"><i class="fas fa-sitemap" aria-hidden="true"></i></div>
+    <div class="focus-icon"><i class="fas fa-project-diagram" aria-hidden="true"></i></div>
     <div class="focus-text">
       <div class="focus-title">Access → lower burden</div>
       <div class="focus-sub">Reducing administrative and psychological frictions in service delivery.</div>
