@@ -47,7 +47,7 @@ education:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: [https://github.com/jeongminfoh](https://www.linkedin.com/in/jeongmin-oh-2020939b/)
+    link: https://www.linkedin.com/in/jeongmin-oh-2020939b/
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
