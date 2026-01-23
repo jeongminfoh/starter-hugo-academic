@@ -84,8 +84,13 @@ html.dark .wg-about .focus-icon {
   max-width: none !important;
   margin: 0 auto 0.7rem auto !important;
 }
+
 /* =========================================
-   ABOUT TITLE: small + bold + centered + stair-step (3 lines)
+   ABOUT TITLE (FINAL)
+   - 3 lines (using <span> + <br> in about.md)
+   - small + bold
+   - centered (within right column)
+   - stair-step via translateX (visual only)
 ========================================= */
 
 .home-section#about .section-heading,
@@ -93,42 +98,37 @@ html.dark .wg-about .focus-icon {
   text-align: center !important;
 }
 
-/* 제목 자체 스타일(작게/볼드) */
+/* title element (h1/h2/section-title) */
 .home-section#about .section-heading h1,
 .home-section#about .section-heading h2,
 .home-section.wg-about .section-heading h1,
 .home-section.wg-about .section-heading h2,
 #about .section-title,
 .wg-about .section-title {
+  text-align: center !important;
   font-weight: 800 !important;
   line-height: 1.06 !important;
   letter-spacing: -0.01em;
-  font-size: clamp(0.86rem, 1.30vw, 1.25rem) !important; /* ✅ 작게 */
+
+  /* ✅ 더 작게 (안 커지게) */
+  font-size: clamp(0.86rem, 1.05vw, 1.10rem) !important;
+
+  /* ✅ <br> 줄바꿈 유지 */
+  white-space: normal !important;
+  max-width: none !important;
 
   margin: 0 auto 0.55rem auto !important;
-  text-align: center !important;
 }
 
-/* 줄(span) 공통 */
-.about-title-line {
-  display: inline-block;
-}
-
-/* ✅ 계단식: margin-left 대신 translateX로 (센터 기준 유지) */
+/* stair-step lines */
+.about-title-line { display: inline-block; }
 .about-title-line.l1 { transform: translateX(0); }
-.about-title-line.l2 { transform: translateX(0.9rem); }
-.about-title-line.l3 { transform: translateX(1.8rem); }
+.about-title-line.l2 { transform: translateX(0.8rem); }
+.about-title-line.l3 { transform: translateX(1.6rem); }
 
-/* 모바일에서는 너무 밀리면 보기 안 좋아서 step을 약하게 */
+/* mobile: step weaker */
 @media (max-width: 575.98px) {
-  .about-title-line.l2 { margin-left: 0.7rem; }
-  .about-title-line.l3 { margin-left: 1.4rem; }
+  .about-title-line.l2 { transform: translateX(0.45rem); }
+  .about-title-line.l3 { transform: translateX(0.90rem); }
 }
 
-/* 오른쪽 컬럼에서 제목이 더 중앙처럼 보이게(미세 조정) */
-@media (min-width: 992px) {
-  .home-section#about .section-heading,
-  .home-section.wg-about .section-heading {
-    padding-left: 1.2rem !important;
-  }
-}
