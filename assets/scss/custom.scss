@@ -1,45 +1,53 @@
 /* =========================================================
-   ABOUT TITLE (FINAL ONLY)
-   - centered block + stair-step indentation
-   - readable size (not tiny)
-   - bold + a bit more line spacing
+   ABOUT TITLE (FINAL)
+   - Each line is centered (fit-content + margin auto)
+   - Then shift line2/line3 slightly to the right (stair-step)
+   - Bigger but not huge
+   - Larger vertical spacing between lines
 ========================================================= */
 
-section#about.wg-about h1,
-section#about.wg-about .section-title {
-  /* 제목 블록 자체를 가운데에 “덩어리로” 배치 */
-  width: fit-content !important;
+/* target the About title (Wowchemy versions differ) */
+.home-section#about .section-heading h1,
+.home-section#about .section-heading h2,
+.home-section.wg-about .section-heading h1,
+.home-section.wg-about .section-heading h2,
+#about .section-title,
+.wg-about .section-title {
+  text-align: center !important;
+  font-weight: 800 !important;
+  letter-spacing: -0.015em !important;
+  line-height: 1.08 !important;
   margin: 0 auto 1.1rem auto !important;
 
-  /* 계단식은 왼쪽 기준으로 잡아야 함 */
-  text-align: left !important;
-
-  font-weight: 800 !important;
-  letter-spacing: -0.01em !important;
-  line-height: 1.12 !important;
-
-  /* ✅ 글씨 크기: 데스크탑/모바일 모두 적당히 */
-  font-size: clamp(1.15rem, 1.55vw, 1.55rem) !important;
+  /* desktop size */
+  font-size: clamp(1.55rem, 2.1vw, 2.20rem) !important;
 }
 
-/* 각 줄을 블록으로 만들고 줄간격 조금 추가 */
-section#about.wg-about .about-title-line {
+/* each line becomes its own centered block */
+.about-title-line{
   display: block !important;
-  margin-top: 0.10rem !important;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-/* ✅ 계단식 들여쓰기(요청한 느낌) */
-section#about.wg-about .about-title-line.l1 { padding-left: 0 !important; }
-section#about.wg-about .about-title-line.l2 { padding-left: 2.6rem !important; }
-section#about.wg-about .about-title-line.l3 { padding-left: 5.2rem !important; }
+/* stair-step + more vertical gap */
+.about-title-line.l2{ transform: translateX(2.2rem); margin-top: 0.85rem; }
+.about-title-line.l3{ transform: translateX(4.4rem); margin-top: 0.85rem; }
 
-/* 모바일에서는 너무 많이 밀리면 보기 안 좋으니 step 줄이기 */
-@media (max-width: 575.98px) {
-  section#about.wg-about h1,
-  section#about.wg-about .section-title {
-    font-size: clamp(1.20rem, 5.2vw, 1.55rem) !important;
+/* mobile: slightly smaller + less shift so it stays natural */
+@media (max-width: 575.98px){
+  .home-section#about .section-heading h1,
+  .home-section#about .section-heading h2,
+  .home-section.wg-about .section-heading h1,
+  .home-section.wg-about .section-heading h2,
+  #about .section-title,
+  .wg-about .section-title {
+    font-size: clamp(1.35rem, 6.2vw, 1.75rem) !important;
   }
-  section#about.wg-about .about-title-line.l2 { padding-left: 1.6rem !important; }
-  section#about.wg-about .about-title-line.l3 { padding-left: 3.2rem !important; }
+
+  .about-title-line.l2{ transform: translateX(1.2rem); margin-top: 0.60rem; }
+  .about-title-line.l3{ transform: translateX(2.4rem); margin-top: 0.60rem; }
 }
+
 
