@@ -125,3 +125,10 @@ html.dark .wg-about .focus-icon {
   .about-title-line.l3 { margin-left: 1.4rem; }
 }
 
+/* 오른쪽 컬럼에서 제목이 더 중앙처럼 보이게(미세 조정) */
+@media (min-width: 992px) {
+  .home-section#about .section-heading,
+  .home-section.wg-about .section-heading {
+    padding-left: 1.2rem !important;
+  }
+}
