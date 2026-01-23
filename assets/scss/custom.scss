@@ -120,4 +120,29 @@ html.dark .wg-about .focus-icon {
   line-height: 1.35;
 }
 
+/* About 제목: 3줄(의도적 줄바꿈) + 작게 + 볼드 + 가운데 */
+.home-section#about .section-heading,
+.home-section.wg-about .section-heading {
+  text-align: center !important;
+}
+
+.home-section#about .section-heading h1,
+.home-section#about .section-heading h2,
+.home-section.wg-about .section-heading h1,
+.home-section.wg-about .section-heading h2,
+#about .section-title,
+.wg-about .section-title {
+  text-align: center !important;
+  font-weight: 800 !important;
+  line-height: 1.08 !important;
+  letter-spacing: -0.01em;
+
+  /* ✅ 작게 유지 */
+  font-size: clamp(1.05rem, 2.2vw, 1.45rem) !important;
+
+  /* ✅ <br> 줄바꿈이 보이게 */
+  white-space: normal !important;
+  max-width: none !important;
+  margin: 0 auto 0.7rem auto !important;
+}
 
