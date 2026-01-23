@@ -67,3 +67,14 @@ html.dark .wg-about .focus-icon {
   line-height: 1.35;
 }
 
+/* About(첫 화면) 제목 더 작게 — 강제 오버라이드 */
+.home-section.wg-about .section-heading h1,
+.home-section.wg-about h1,
+.home-section#about .section-heading h1,
+.home-section#about h1,
+.wg-about .hero-title {
+  font-size: clamp(1.35rem, 1.55vw, 1.85rem) !important;
+  line-height: 1.12 !important;
+  letter-spacing: -0.02em;
+  margin-bottom: 0.5rem !important;
+}
