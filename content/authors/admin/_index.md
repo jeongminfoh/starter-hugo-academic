@@ -114,7 +114,4 @@ highlight_name: true
   </div>
 </div>
 
-<div class="about-links small">
-  <a href="/research/">Research</a> · <a href="/#contact">Contact</a>
-</div>
 
