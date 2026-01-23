@@ -1,46 +1,40 @@
-/* =========================================
-   ABOUT TITLE (FINAL - KEEP ONLY THIS)
-========================================= */
+ 
+/* ================================
+   ABOUT TITLE (FINAL - WORKING)
+   Targets Wowchemy About widget title (often plain <h1>)
+================================ */
 
-.home-section#about .section-heading,
-.home-section.wg-about .section-heading {
-  text-align: center !important;
-}
-
-.home-section#about .section-heading h1,
-.home-section#about .section-heading h2,
-.home-section.wg-about .section-heading h1,
-.home-section.wg-about .section-heading h2,
-#about .section-title,
-.wg-about .section-title {
+section#about.wg-about h1,
+section#about.wg-about .section-title {
   text-align: center !important;
   font-weight: 800 !important;
   line-height: 1.06 !important;
   letter-spacing: -0.01em;
 
-  font-size: clamp(0.62rem, 0.80vw, 1.05rem) !important;
+  /* ✅ 작은 글씨 */
+  font-size: clamp(0.62rem, 1.00vw, 1.05rem) !important;
 
-  white-space: normal !important;
+  white-space: normal !important; /* allow <br> */
   max-width: none !important;
   margin: 0 auto 0.55rem auto !important;
 }
 
-/* stair-step indentation */
-.about-title-line { display: inline-block; }
-.about-title-line.l1 { transform: translateX(0); }
-.about-title-line.l2 { transform: translateX(0.75rem); }
-.about-title-line.l3 { transform: translateX(1.50rem); }
+/* stair-step lines */
+section#about.wg-about .about-title-line { display: inline-block; }
+section#about.wg-about .about-title-line.l1 { transform: translateX(0); }
+section#about.wg-about .about-title-line.l2 { transform: translateX(0.75rem); }
+section#about.wg-about .about-title-line.l3 { transform: translateX(1.50rem); }
 
 @media (max-width: 575.98px) {
-  .about-title-line.l2 { transform: translateX(0.40rem); }
-  .about-title-line.l3 { transform: translateX(0.85rem); }
+  section#about.wg-about .about-title-line.l2 { transform: translateX(0.40rem); }
+  section#about.wg-about .about-title-line.l3 { transform: translateX(0.85rem); }
 }
 
-/* =========================================
-   ABOUT FOCUS (FINAL - HKS minimal + premium)
-========================================= */
+/* ================================
+   ABOUT FOCUS (FINAL - HKS minimal)
+================================ */
 
-.wg-about .about-focus{
+section#about.wg-about .about-focus{
   display: grid;
   grid-template-columns: 1fr;
   gap: 0.55rem;
@@ -49,13 +43,13 @@
 }
 
 @media (min-width: 768px){
-  .wg-about .about-focus{
+  section#about.wg-about .about-focus{
     grid-template-columns: 1fr 1fr;
     gap: 0.65rem 1.4rem;
   }
 }
 
-.wg-about .focus-item{
+section#about.wg-about .focus-item{
   display: grid;
   grid-template-columns: 2.1rem 1fr;
   align-items: start;
@@ -68,7 +62,7 @@
   text-align: left !important;
 }
 
-.wg-about .focus-icon{
+section#about.wg-about .focus-icon{
   width: 2.05rem;
   height: 2.05rem;
   border-radius: 999px;
@@ -80,15 +74,15 @@
   margin: 0 !important;
 }
 
-html.dark .wg-about .focus-icon{
+html.dark section#about.wg-about .focus-icon{
   border-color: rgba(255,255,255,0.16);
 }
 
-.wg-about .focus-icon i{
+section#about.wg-about .focus-icon i{
   font-size: 0.95rem;
 }
 
-.wg-about .focus-title{
+section#about.wg-about .focus-title{
   font-weight: 700;
   line-height: 1.18;
   letter-spacing: -0.01em;
@@ -96,7 +90,7 @@ html.dark .wg-about .focus-icon{
   font-size: 0.98rem;
 }
 
-.wg-about .focus-sub{
+section#about.wg-about .focus-sub{
   margin: 0.12rem 0 0 0;
   line-height: 1.38;
   font-size: 0.90rem;
@@ -104,16 +98,14 @@ html.dark .wg-about .focus-icon{
 }
 
 @media (max-width: 575.98px){
-  .wg-about .focus-item{
+  section#about.wg-about .focus-item{
     grid-template-columns: 1fr;
     text-align: center !important;
     justify-items: center;
     row-gap: 0.30rem;
   }
 
-  .wg-about .focus-icon{
+  section#about.wg-about .focus-icon{
     margin: 0 auto !important;
   }
 }
-
-body { outline: 6px solid red !important; }
