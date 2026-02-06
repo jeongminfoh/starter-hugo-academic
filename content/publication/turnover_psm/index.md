@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Tolerance of Injustice? How Public Service Motivation Shapes Turnover Intentions Under Perceived Organizational Injustice"
-authors: [ohs , byunj, jungh, & oh_j ]
+authors: [ohs , byunj, jungh, "&" oh_j ]
 date: 2026-02-06
 publication_types: ["2"]
 
