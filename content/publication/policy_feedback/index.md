@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Does Administrative Burden Create Racialized Policy Feedback? How Losing Access to Public Benefits Impacts Beliefs about Government"
-authors: ["Bell, E.", "Wright II, J.", "<b>Oh, J.<b>"]
+authors: [belle, wrightII, oh_j]
 date: 2024-07-13
 publication_types: ["2"]
 
