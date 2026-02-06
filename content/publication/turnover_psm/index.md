@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Tolerance of Injustice? How Public Service Motivation Shapes Turnover Intentions Under Perceived Organizational Injustice"
-authors: ["Seong Soo Oh" , "Jihyun Byun", "Haehwan Jung", admin ]
+authors: ["Oh, S." , "Byun, J.", "Jung, H.", admin ]
 date: 2026-02-06
 publication_types: ["2"]
 
