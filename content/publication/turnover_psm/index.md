@@ -7,7 +7,7 @@ date: 2026-01-20
 publication_types: ["2"]
 
 # Publication name and optional abbreviated version.
-publication: "*Public Personnel Management* (Corresponding Author) *Conditional Acceptance*"
+publication: "*Public Personnel Management* (Corresponding Author) *Forthcoming*"
 publication_short: ""
 
 # Abstract and optional shortened version.
