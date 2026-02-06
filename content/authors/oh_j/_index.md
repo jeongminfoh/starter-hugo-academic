@@ -1,5 +1,5 @@
 ---
 title: "Oh, J."
-superuser: false
+superuser: true
 ---
 
