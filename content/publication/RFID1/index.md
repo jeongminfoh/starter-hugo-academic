@@ -2,7 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Price Salience and the Design of Market-Based Environmental Policies: A Comparison between Food Waste Pricing Policies in South Korea"
-authors: ["Kim, S.", "Jang, J.", "<b>Oh, J.<b>"]
+authors:
+  - "Lim, D."
+  - "Kwon, G."
+  - "<b>Oh, J.<b>"
+    
 date: 2026-02-04
 publication_types: ["2"]
 
