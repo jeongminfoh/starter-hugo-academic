@@ -5,7 +5,7 @@ title: "Price Salience and the Design of Market-Based Environmental Policies: A 
 authors:
   - "Kim, S."
   - "Jang, J."
-  - oh_j
+  - <b>oh_j<b>
     
 date: 2026-01-04
 publication_types: ["2"]
