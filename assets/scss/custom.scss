@@ -123,3 +123,13 @@ section#about.wg-about .about-title-line.l3 { padding-left: 5.2rem !important; }
   section#about.wg-about .about-title-line.l3 { padding-left: 3.2rem !important; }
 }
 
+/* =========================================================
+   BOLD AUTHOR NAME (Oh, J.)
+========================================================= */
+
+// Publications 위젯에서 Oh, J. 볼드
+.card-text.pub-authors a[href*="oh_j"],
+.pub-list-item .article-metadata a[href*="oh_j"],
+.article-metadata a[href*="oh_j"] {
+  font-weight: 700 !important;
+}
