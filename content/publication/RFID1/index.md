@@ -3,8 +3,8 @@
 
 title: "Price Salience and the Design of Market-Based Environmental Policies: A Comparison between Food Waste Pricing Policies in South Korea"
 authors:
-  - kims
-  - jangj
+  - Kim, S.
+  - Jang, J.
   - **Oh, J.**
     
 date: 2026-01-04
