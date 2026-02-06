@@ -5,7 +5,7 @@ title: "Price Salience and the Design of Market-Based Environmental Policies: A 
 authors:
   - kims
   - jangj
-  - oh_j
+  - **oh_j**
     
 date: 2026-01-04
 publication_types: ["2"]
