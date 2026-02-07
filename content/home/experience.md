@@ -32,31 +32,12 @@ experience:
     date_end: '2024-06-30'
     
   - title: Secretary
-    company: Section on Korean Public Administration, American Society for Public Administration (ASPA) 
+    company: Section on Korean Public Administration, American Society for Public Administration 
     company_url: ''
     company_logo: 
     location: D.C., U.S.
     date_start: '2024-05-01'
     date_end: '2026-04-30'
- 
-  - title: Advisory Board
-    company: Section on Korean Public Administration, American Society for Public Administration (ASPA) 
-    company_url: ''
-    company_logo: 
-    location: D.C., U.S.
-    date_start: '2022-10-01'
-    date_end: '2024-04-30'
-    
-  - title: Instructor of Record 
-    company: Askew School of Public Administration and Policy, Florida State University
-    company_url: ''
-    company_logo: 
-    location: Tallahassee, FL
-    date_start: '2021-08-01'
-    date_end: '2022-12-30'
-    description: |2-
-    
-        * Fall 2021 - Fall 2022: Instructor of record (PAD 3003)
 
   - title: Ph.D Policy Chair 
     company: Public Administration Graduate Association, Florida State University
