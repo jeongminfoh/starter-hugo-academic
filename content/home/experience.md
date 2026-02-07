@@ -76,7 +76,7 @@ experience:
         * Promoted from research assistant in March 2014
         * Worked also as program Coordinator (Chief Administrative Officer) of Master’s Degree Program on Global e-Government & e-Policy which was fully funded by the South Korea Government for international development
 
-  - title: Rifle Company Executive Officer (First Lieutenant) 
+  - title: Infantry Rifle Company Executive Officer (First Lieutenant) 
     company: 25th Infantry Division, Republic of Korea Army
     company_url: ''
     company_logo: 
@@ -87,7 +87,7 @@ experience:
     
         *  Second in command of Rifle company
         *  Served in a General Outpost (G.O.P.) along the Demilitarized Zone (D.M.Z.)
-        *  Promoted from Rifle Platoon Leader (Second Lieutenant) in March 2010
+        *  Promoted from Infantry  Rifle Platoon Leader (Second Lieutenant) in March 2010
 
 design:
   columns: '2'
