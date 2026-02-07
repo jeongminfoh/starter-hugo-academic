@@ -76,7 +76,7 @@ experience:
         * Promoted from research assistant in March 2014
         * Worked also as program Coordinator (Chief Administrative Officer) of Master’s Degree Program on Global e-Government & e-Policy which was fully funded by the South Korea Government for international development
 
-  - title: Company Executive Officer (First Lieutenant) 
+  - title: Rifle Company Executive Officer (First Lieutenant) 
     company: 25th Infantry Division, Republic of Korea Army
     company_url: ''
     company_logo: 
