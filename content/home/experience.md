@@ -23,8 +23,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Assistant Professor, Department of Political Science
-    company: Arkansas State University
+  - title: Assistant Professor 
+    company: Department of Political Science, Arkansas State University
     company_url: ''
     company_logo: 
     location: Jonesboro, AR
