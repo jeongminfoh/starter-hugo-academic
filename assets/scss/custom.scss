@@ -122,46 +122,4 @@ section#about.wg-about .about-title-line.l3 { padding-left: 5.2rem !important; }
   section#about.wg-about .about-title-line.l2 { padding-left: 1.6rem !important; }
   section#about.wg-about .about-title-line.l3 { padding-left: 3.2rem !important; }
 }
- 
-/* =========================
-   Publications: authors styling
-   - disable click (looks like plain text)
-   - add "&" before last author
-   - bold only Oh, J. (slug = ohj)
-========================= */
 
-/* 범위: publication 리스트 + publication 단일 페이지 둘 다 커버 */
-.pub-list-item .article-metadata .authors a,
-.page-publication .article-metadata .authors a,
-.pub-list-item .authors a,
-.page-publication .authors a {
-  pointer-events: none;      /* 클릭 막기 */
-  cursor: default;
-  color: inherit;
-  text-decoration: none;
-}
-
-/* "& " 삽입 (2명 이상일 때 마지막 저자 앞에) */
-.pub-list-item .article-metadata .authors a:last-child::before,
-.page-publication .article-metadata .authors a:last-child::before,
-.pub-list-item .authors a:last-child::before,
-.page-publication .authors a:last-child::before {
-  content: "& ";
-  font-weight: 400;
-}
-
-/* 1명짜리면 & 제거 */
-.pub-list-item .article-metadata .authors a:first-child:last-child::before,
-.page-publication .article-metadata .authors a:first-child:last-child::before,
-.pub-list-item .authors a:first-child:last-child::before,
-.page-publication .authors a:first-child:last-child::before {
-  content: "";
-}
-
-/* Oh, J.만 볼드 (author slug가 ohj인 링크를 타겟) */
-.pub-list-item .article-metadata .authors a[href*="/authors/oh_j/"],
-.page-publication .article-metadata .authors a[href*="/authors/oh_j/"],
-.pub-list-item .authors a[href*="/authors/oh_j/"],
-.page-publication .authors a[href*="/authors/oh_j/"] {
-  font-weight: 800;
-}
