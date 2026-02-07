@@ -39,7 +39,7 @@ experience:
     date_start: '2024-05-01'
     date_end: '2026-04-30'
 
-  - title: Ph.D Policy Chair 
+  - title: Ph.D. Policy Chair 
     company: Public Administration Graduate Association, Florida State University
     company_url: ''
     company_logo: 
