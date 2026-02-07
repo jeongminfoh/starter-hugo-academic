@@ -39,14 +39,6 @@ experience:
     date_start: '2024-05-01'
     date_end: '2026-04-30'
  
-  - title: International Board Member (국제위원회 이사)
-    company: Korean Association for Public Administration (한국정책학회)
-    company_url: ''
-    company_logo: 
-    location: Seoul, Korea
-    date_start: '2024-01-01'
-    date_end: '2025-12-31'
-
   - title: Advisory Board
     company: Section on Korean Public Administration, American Society for Public Administration (ASPA) 
     company_url: ''
