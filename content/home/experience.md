@@ -35,7 +35,7 @@ experience:
     company: Section on Korean Public Administration, American Society for Public Administration 
     company_url: ''
     company_logo: 
-    location: D.C., U.S.
+    location: D.C.
     date_start: '2024-05-01'
     date_end: '2026-04-30'
 
