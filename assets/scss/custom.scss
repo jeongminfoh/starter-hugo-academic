@@ -123,3 +123,23 @@ section#about.wg-about .about-title-line.l3 { padding-left: 5.2rem !important; }
   section#about.wg-about .about-title-line.l3 { padding-left: 3.2rem !important; }
 }
  
+/* Oh, J. 무조건 볼드 */
+.pub-authors a,
+.article-metadata a {
+  &[href*="oh_j"],
+  &[href*="Oh"] {
+    font-weight: 700 !important;
+    color: inherit !important;
+  }
+}
+
+/* 홈 publications 위젯 */
+.showcase .card-text a[href*="oh_j"] {
+  font-weight: 700 !important;
+}
+
+/* 전체 적용 */
+a[href$="/authors/oh_j/"],
+a[href$="/oh_j/"] {
+  font-weight: 700 !important;
+}
