@@ -16,6 +16,14 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Behavioral Public Policy, Administrative Burden and Digital Governance.
 
+# Interests to show in About widget
+interests:
+  - Behavioral Public Policy
+  - Digital Governance/AI/CyberSecurity
+  - Strategic Management
+  - Psychological & Administrative Burden
+  - Economic Self Sufficiency & Resilience
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
