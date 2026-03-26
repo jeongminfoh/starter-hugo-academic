@@ -49,6 +49,7 @@ section#about .col-md-7 > h3 {
 
 /* ── Tagline ── */
 .rh-tagline {
+  text-align: center;
   margin-bottom: 1rem;
 }
 
@@ -72,10 +73,13 @@ section#about .col-md-7 > h3 {
   line-height: 1.6;
   color: var(--rh-text-secondary);
   font-family: var(--rh-sans);
+  max-width: 480px;
+  margin: 0 auto;
 }
 
 /* ── Pull Quote ── */
 .rh-pull-quote {
+  text-align: center;
   margin: 0.25rem 0 1.5rem;
   padding: 1.25rem 0;
   position: relative;
@@ -87,7 +91,7 @@ section#about .col-md-7 > h3 {
   width: 32px;
   height: 2px;
   background: var(--rh-accent-solution);
-  margin: 0 0 1rem;
+  margin: 0 auto 1rem;
   opacity: 0.5;
 }
 
@@ -97,6 +101,8 @@ section#about .col-md-7 > h3 {
   font-size: clamp(16px, 2.2vw, 20px);
   line-height: 1.45;
   color: var(--rh-text-primary);
+  max-width: 480px;
+  margin: 0 auto;
 }
 
 .rh-accent {
