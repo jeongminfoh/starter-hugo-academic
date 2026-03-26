@@ -16,30 +16,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Behavioral Public Policy, Administrative Burden and Digital Governance.
 
-# Interests to show in About widget
-interests:
-  - Behavioral Public Policy
-  - Digital Governance/AI/CyberSecurity
-  - Strategic Management
-  - Psychological & Administrative Burden
-  - Economic Self Sufficiency & Resilience
-
-# Education to show in About widget
-education:
-  courses:
-    - course: Ph.D. in Public Administration
-      institution: Florida State University
-      year: 2023 
-    - course: Master in Public Policy
-      institution: University of Michigan
-      year: 2018
-    - course: Master in Public Administration
-      institution: Sungkyunkwan University
-      year: 2014      
-    - course: Bachelor of Public Administration 
-      institution: Sungkyunkwan University | ROTC (Reserve Officers’ Training Corps)
-      year: 2009
-
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -146,9 +122,6 @@ highlight_name: true
 
   </div>
 
-</div>
-
-  </div>
 </div>
 
 
