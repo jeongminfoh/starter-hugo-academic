@@ -3,7 +3,6 @@
 
 title: "Too much or Too Little? Cognitive Load in Artificial Intelligence Chatbot and Administrative Burdens"
 authors: [admin]
-date: 
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
