@@ -91,20 +91,20 @@ highlight_name: true
 </div>
 </div>
 </div>
-<div class="rh-streams-label">Research streams</div>
+<div class="rh-streams-label">Behavioral Public Policy</div>
 <div class="rh-streams-grid">
 <div class="rh-stream-card">
-<div class="rh-stream-arrow rh-arrow-green">Technology → Public Value</div>
-<div class="rh-stream-title">Technology as policy instrument</div>
+<div class="rh-stream-arrow rh-arrow-green">Technology as policy instrument</div>
+<div class="rh-stream-title">Technology/AI/Cybersecurity</div>
 <div class="rh-stream-desc">How technology produces measurable community outcomes and creates public value for citizens and governments</div>
 </div>
 <div class="rh-stream-card">
-<div class="rh-stream-arrow rh-arrow-coral">Burden → Access → Hope</div>
-<div class="rh-stream-title">Resilience and self-sufficiency</div>
+<div class="rh-stream-arrow rh-arrow-coral">Resilience and self-sufficiency</div>
+<div class="rh-stream-title">Psychological/Administrative Burden</div>
 <div class="rh-stream-desc">Reducing administrative burden so people can access services, regain hope, and reach self-sufficiency</div>
 </div>
 <div class="rh-stream-card">
-<div class="rh-stream-arrow rh-arrow-blue">Motivation → Service</div>
+<div class="rh-stream-arrow rh-arrow-blue">Strategic Management</div>
 <div class="rh-stream-title">Public employees who choose to serve</div>
 <div class="rh-stream-desc">Sustaining the commitment of public servants who believe in the mission they serve</div>
 </div>
