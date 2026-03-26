@@ -91,7 +91,7 @@ highlight_name: true
 </div>
 </div>
 </div>
-<div class="rh-streams-label">Behavioral Public Policy|Technology/AI/Cybersecurity|Administrative Burden|Strategic Management </div>
+<div class="rh-streams-label">Behavioral Public Policy</div>
 <div class="rh-streams-grid">
 <div class="rh-stream-card">
 <div class="rh-stream-arrow rh-arrow-green">Technology as policy instrument</div>
