@@ -3,11 +3,11 @@
 
 title: "Citizen as Owner? Role of Psychological Ownership and Administrative Burden in Citizen Satisfaction"
 authors: [admin, "Donwe Choi", "Frances Berry"]
-date: 2024-11-30
+date: 2026-03-30
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
-publication: "Working Paper"
+publication: "Under Review"
 publication_short: ""
 
 # Abstract and optional shortened version.
