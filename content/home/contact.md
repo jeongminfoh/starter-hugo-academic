@@ -16,7 +16,7 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: oh2ji@ucmail.uc.edu
+  email: ohjm1025@hanyang.ac.kr
 
   
     
