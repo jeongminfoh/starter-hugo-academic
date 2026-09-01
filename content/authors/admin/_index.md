@@ -11,7 +11,7 @@ role: Assistant Professor </br> Department of Public Administration, College of 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Hanyang University Profile
-    url: https://hypa.hanyang.ac.kr/front/professor/full-time.
+    url: https://hypa.hanyang.ac.kr/front/professor/full-time
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Behavioral Public Policy, Administrative Burden, cybersecurity and Digital Governance.
