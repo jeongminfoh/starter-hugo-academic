@@ -28,7 +28,7 @@ experience:
     company: School of Public and International Affairs, University of Cincinnati
     company_url: ''
     company_logo: 
-    location: Jonesboro, AR
+    location: Cincinnati, OH
     date_start: '2023-08-15'
     date_end: '2026-08-14'
 
@@ -36,7 +36,7 @@ experience:
     company: Center for Cyber Strategy and Policy, School of Public and International Affairs, University of Cincinnati
     company_url: ''
     company_logo: 
-    location: Jonesboro, AR
+    location: Cincinnati, OH
     date_start: '2023-08-15'
     date_end: '2026-08-14'
         
@@ -52,7 +52,7 @@ experience:
     company: Section on Korean Public Administration, American Society for Public Administration 
     company_url: ''
     company_logo: 
-    location: D.C.
+    location: Washington D.C.
     date_start: '2024-05-01'
     date_end: '2026-04-30'
 
