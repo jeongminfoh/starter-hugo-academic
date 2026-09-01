@@ -6,11 +6,11 @@ title: Jeongmin Oh
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor </br> Department of Public Administration, College of Policy Science </br> </br> Department of Data Science, College of Engineering (Joint Appointment) </br> </br> Hanyang University </br> </br> </br> Research Affiliate </br> Center for Cyber Strategy and Policy </br> School of Public and International Affairs
+role: Assistant Professor </br> Department of Public Administration, College of Policy Science </br> Department of Data Science, College of Engineering (Joint Appointment) </br> Hanyang University </br> </br> Research Affiliate </br> Center for Cyber Strategy and Policy </br> School of Public and International Affairs </br> University of Cincinnati
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Hanyang University
+  - name: Hanyang University Profile
     url: https://hypa.hanyang.ac.kr/front/professor/full-time.
 
 # Short bio (displayed in user profile at end of posts)
