@@ -6,15 +6,15 @@ title: Jeongmin Oh
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor </br> School of Public and International Affairs </br> </br> Faculty Fellows </br> Center for Cyber Strategy and Policy </br> School of Public and International Affairs
+role: Assistant Professor </br> Department of Public Administration, College of Policy Science </br> </br> Department of Data Science, College of Engineering (Joint Appointment) </br> </br> Hanyang University </br> </br> </br> Research Affiliate </br> Center for Cyber Strategy and Policy </br> School of Public and International Affairs
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Cincinnati
-    url: https://researchdirectory.uc.edu/p/oh2ji?_gl=1*ong5p2*_ga*MzI0NTMyMDI2LjE3MzgwODg0MTc.*_ga_7H1FCKXZ4Y*czE3NjkxMDQyODgkbzE1OSRnMSR0MTc2OTEzMDA5MiRqMjckbDAkaDA.*_ga_LSJTQ7TZ38*czE3NjkxMDQyODgkbzE1OSRnMSR0MTc2OTEzMDA3NCRqNDUkbDAkaDA.*_ga_CWY9357HWN*czE3NjkxMDQyODgkbzE1OSRnMSR0MTc2OTEzMDA3NCRqNDUkbDAkaDA.
+  - name: Hanyang University
+    url: https://hypa.hanyang.ac.kr/front/professor/full-time.
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Behavioral Public Policy, Administrative Burden and Digital Governance.
+bio: My research interests include Behavioral Public Policy, Administrative Burden, cybersecurity and Digital Governance.
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -41,7 +41,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'oh2ji@ucmail.uc.edu'
+email: 'ohjm1025@hanyang.ac.kr'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
