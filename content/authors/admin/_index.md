@@ -6,7 +6,7 @@ title: Jeongmin Oh
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor </br> Department of Public Administration </br> Department of Data Science (Joint Appointment) </br> Hanyang University </br> </br> Research Affiliate </br> Center for Cyber Strategy and Policy </br> School of Public and International Affairs </br> University of Cincinnati
+role: Assistant Professor </br> Department of Public Administration </br> Department of Science and Technology Policy </br> Department of Data Science (Joint Appointment) </br> Hanyang University </br> </br> Research Affiliate </br> Center for Cyber Strategy and Policy </br> School of Public and International Affairs </br> University of Cincinnati
 
 # Organizations/Affiliations to show in About widget
 organizations:
