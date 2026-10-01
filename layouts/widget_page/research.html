@@ -3,10 +3,7 @@
 {{ $published := (where $papers "Params.publication_types" "intersect" (slice "2")).ByDate.Reverse }}
 {{ $ongoing := (where $papers "Params.publication_types" "intersect" (slice "3")).ByDate.Reverse }}
 <main class="research-page">
-  <header class="research-intro">
-    <h1 class="sr-only">{{ .Title }}</h1>
-    <p>Public policy, technology, and behavior.</p>
-  </header>
+  <h1 class="sr-only">{{ .Title }}</h1>
   {{ range first 1 $published }}
   <section class="research-feature{{ if not .Params.research_image }} research-feature-text{{ end }}" aria-labelledby="featured-title">
     <div>
@@ -41,4 +38,6 @@
   {{ end }}
 </main>
 {{ end }}
+
+
 
