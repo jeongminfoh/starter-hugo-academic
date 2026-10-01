@@ -1,0 +1,43 @@
+{{ define "main" }}
+{{ $papers := where site.RegularPages "Type" "publication" }}
+{{ $published := (where $papers "Params.publication_types" "intersect" (slice "2")).ByDate.Reverse }}
+{{ $ongoing := (where $papers "Params.publication_types" "intersect" (slice "3")).ByDate.Reverse }}
+<main class="research-page">
+  <header class="research-intro">
+    <h1>{{ .Title }}</h1>
+    <p>Public policy, technology, and behavior.</p>
+  </header>
+  {{ range first 1 $published }}
+  <section class="research-feature{{ if not .Params.research_image }} research-feature-text{{ end }}" aria-labelledby="featured-title">
+    <div>
+      <p class="research-eyebrow">Featured publication</p>
+      {{ $title := split .Title ": " }}
+      <h2 id="featured-title">{{ index $title 0 }}</h2>
+      {{ if gt (len $title) 1 }}<p class="research-feature-subtitle">{{ delimit (after 1 $title) ": " }}</p>{{ end }}
+      <div class="research-authors">{{ partial "page_metadata_authors" . }}</div>
+      <p class="research-venue">{{ .Params.publication | markdownify }} <span>· {{ .Date.Format "2006" }}</span></p>
+      <div class="research-actions">
+        <a class="research-button" href="{{ .RelPermalink }}">View study <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+        {{ with .Params.doi }}<a class="research-doi" href="https://doi.org/{{ . }}" target="_blank" rel="noopener">DOI <i class="fas fa-external-link-alt" aria-hidden="true"></i><span class="sr-only"> (opens in a new tab)</span></a>{{ end }}
+      </div>
+    </div>
+    {{ $artAlt := .Params.research_image_alt | default "Research topic illustration" }}
+    {{ with .Params.research_image }}<img class="research-art" src="{{ . | relURL }}" alt="{{ $artAlt }}" width="1536" height="1024">{{ end }}
+  </section>
+  {{ end }}
+  <section class="research-section" aria-labelledby="publications-title">
+    <div class="research-section-label"><h2 id="publications-title">Publications</h2><a href="{{ "/publication-type/2/" | relURL }}">All publications <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+    <div class="research-list">{{ range first 6 $published }}{{ partial "research-row" . }}{{ end }}</div>
+  </section>
+  <section class="research-section" aria-labelledby="ongoing-title">
+    <div class="research-section-label"><h2 id="ongoing-title">Ongoing research</h2></div>
+    <div class="research-list">{{ range $ongoing }}{{ partial "research-row" . }}{{ end }}</div>
+  </section>
+  {{ with .Resources.GetMatch "workinprogress.md" }}
+  <section class="research-section" aria-labelledby="progress-title">
+    <div class="research-section-label"><h2 id="progress-title">Work in progress</h2></div>
+    <div class="research-progress">{{ .Content }}</div>
+  </section>
+  {{ end }}
+</main>
+{{ end }}

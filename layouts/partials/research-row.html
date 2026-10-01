@@ -1,0 +1,8 @@
+<article class="research-row">
+  <div class="research-year">{{ if not .Date.IsZero }}{{ .Date.Format "2006" }}{{ end }}</div>
+  <div class="research-row-copy">
+    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    <div class="research-row-meta"><span class="research-authors">{{ partial "page_metadata_authors" . }}</span>{{ with .Params.publication }}<span class="research-venue">{{ . | markdownify }}</span>{{ end }}</div>
+  </div>
+  <a class="research-view" href="{{ .RelPermalink }}" aria-label="View {{ .Title }}">View <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+</article>

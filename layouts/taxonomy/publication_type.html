@@ -1,70 +1,10 @@
 {{ define "main" }}
-
-{{/* Map the numeric publication type ("2") to a human-friendly title */}}
-{{ $term := .Data.Term }}
-{{ $type_names := dict
-  "0" "Uncategorized"
-  "1" "Conference paper"
-  "2" "Journal article"
-  "3" "Working paper"
-  "4" "Report"
-  "5" "Book"
-  "6" "Book section"
-  "7" "Thesis"
-  "8" "Patent"
-}}
-{{ $heading := (index $type_names $term) | default .Title }}
-
-<div class="universal-wrapper pt-3">
-
-  <h1>{{ $heading }}</h1>
-
-  {{ $pages := .Pages.ByDate.Reverse }}
-  {{ $paginator := .Paginate $pages }}
-
-  <div class="row">
-    <div class="col-lg-12">
-
-      {{ range $paginator.Pages }}
-        <div class="media stream-item view-citation">
-
-          <div class="media-body">
-            <h3 class="article-title mb-0 mt-0">
-              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            </h3>
-
-            {{/* Authors */}}
-            {{ with .Params.authors }}
-              <div class="article-metadata">
-                {{ $links := slice }}
-                {{ range . }}
-                  {{ $a := . }}
-                  {{ $p := site.GetPage (printf "/authors/%s" $a) }}
-                  {{ if $p }}
-                    {{ $links = $links | append (printf "<a href=\"%s\">%s</a>" $p.RelPermalink $p.Title) }}
-                  {{ else }}
-                    {{ $links = $links | append $a }}
-                  {{ end }}
-                {{ end }}
-                {{ delimit $links ", " | safeHTML }}
-              </div>
-            {{ end }}
-
-            {{/* Journal / venue line */}}
-            {{ with .Params.publication }}
-              <div class="article-metadata">
-                {{ . | markdownify }}
-              </div>
-            {{ end }}
-          </div>
-
-        </div>
-      {{ end }}
-
-      {{ template "_internal/pagination.html" . }}
-
-    </div>
-  </div>
-</div>
-
+{{ $names := dict "0" "Uncategorized" "1" "Conference papers" "2" "Publications" "3" "Working papers" "4" "Reports" "5" "Books" "6" "Book sections" "7" "Theses" "8" "Patents" }}
+<main class="research-page">
+  <a class="research-back" href="{{ "/research/" | relURL }}"><i class="fas fa-arrow-left" aria-hidden="true"></i> Research</a>
+  <header class="research-intro"><h1>{{ index $names .Data.Term | default .Title }}</h1></header>
+  {{ $paginator := .Paginate .Pages.ByDate.Reverse }}
+  <div class="research-list">{{ range $paginator.Pages }}{{ partial "research-row" . }}{{ end }}</div>
+  {{ template "_internal/pagination.html" . }}
+</main>
 {{ end }}
