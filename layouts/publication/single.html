@@ -1,0 +1,19 @@
+{{ define "main" }}
+<main class="research-page research-detail">
+  <a class="research-back" href="{{ "/research/" | relURL }}"><i class="fas fa-arrow-left" aria-hidden="true"></i> Research</a>
+  <header class="research-detail-header">
+    <p class="research-eyebrow">{{ if in .Params.publication_types "2" }}Publication{{ else }}Ongoing research{{ end }}{{ if not .Date.IsZero }} · {{ .Date.Format "2006" }}{{ end }}</p>
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.subtitle }}<p class="research-feature-subtitle">{{ . | markdownify }}</p>{{ end }}
+    <div class="research-authors">{{ partial "page_metadata_authors" . }}</div>
+    {{ with .Params.publication }}<p class="research-venue">{{ . | markdownify }}</p>{{ end }}
+    <div class="research-detail-links">{{ partial "page_links" (dict "page" . "is_list" false) }}</div>
+  </header>
+  {{ with .Params.research_image }}<img class="research-detail-art" src="{{ . | relURL }}" width="1536" height="1024" alt="{{ $.Params.research_image_alt }}">{{ else }}
+    {{ with (.Resources.ByType "image").GetMatch "*featured*" }}<img class="research-detail-art" src="{{ .RelPermalink }}" alt="{{ $.Params.image.alt_text }}">{{ end }}
+  {{ end }}
+  {{ with .Params.abstract }}<section class="research-abstract"><h2>Abstract</h2><div>{{ . | markdownify }}</div></section>{{ end }}
+  {{ with .Content }}<div class="article-style research-body">{{ . }}</div>{{ end }}
+  {{ partial "page_footer" . }}
+</main>
+{{ end }}
