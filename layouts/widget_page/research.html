@@ -4,7 +4,7 @@
 {{ $ongoing := (where $papers "Params.publication_types" "intersect" (slice "3")).ByDate.Reverse }}
 <main class="research-page">
   <header class="research-intro">
-    <h1>{{ .Title }}</h1>
+    <h1 class="sr-only">{{ .Title }}</h1>
     <p>Public policy, technology, and behavior.</p>
   </header>
   {{ range first 1 $published }}
@@ -41,3 +41,4 @@
   {{ end }}
 </main>
 {{ end }}
+
