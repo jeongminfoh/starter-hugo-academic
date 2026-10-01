@@ -2,6 +2,10 @@
 title: "Research"  # Add a page title.
 summary: "Jeongmin Oh's Research"  # Add a page description.
 date: "2019-11-29T00:00:00Z"  # Add today's date.
+layout: research
+layout: "research"
+design:
+  css_class: research-surface
 type: "widget_page"  # Page type is a Widget Page
 
 
