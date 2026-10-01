@@ -491,3 +491,12 @@ body.dark:has(.research-page), body.dark:has(.research-page) .navbar { backgroun
   .research-abstract { grid-template-columns: 1fr; gap: 14px; }
   .research-detail-header h1 { letter-spacing: -.5px; }
 }
+
+/* Preserve all labels and source notes in the research infographic. */
+.research-art[src$="election-key-findings.png"],
+.research-detail-art[src$="election-key-findings.png"] {
+  height: auto;
+  max-height: none;
+  aspect-ratio: auto;
+  object-fit: contain;
+}
