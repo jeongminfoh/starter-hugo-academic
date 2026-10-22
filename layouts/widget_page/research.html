@@ -20,7 +20,7 @@
       </div>
     </div>
     {{ $artAlt := .Params.research_image_alt | default "Research topic illustration" }}
-    {{ with .Params.research_image }}<img class="research-art" src="{{ . | relURL }}" alt="{{ $artAlt }}" width="1536" height="1024">{{ end }}
+    {{ with .Params.research_image }}<img class="research-art" src="{{ . | relURL }}" alt="{{ $artAlt }}" width="1536" height="1024" style="height: auto; object-fit: contain;">{{ end }}
   </section>
   {{ end }}
   <section class="research-section" aria-labelledby="publications-title">
