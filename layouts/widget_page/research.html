@@ -1,6 +1,10 @@
 {{ define "main" }}
 {{ $papers := where site.RegularPages "Type" "publication" }}
 {{ $published := (where $papers "Params.publication_types" "intersect" (slice "2")).ByDate.Reverse }}
+{{/* Keep the election cybersecurity study first, followed by the latest accepted papers. */}}
+{{ with site.GetPage "/publication/cybersecurity2026" }}
+  {{ $published = union (slice .) $published }}
+{{ end }}
 {{ $ongoing := (where $papers "Params.publication_types" "intersect" (slice "3")).ByDate.Reverse }}
 <main class="research-page">
   <h1 class="sr-only">{{ .Title }}</h1>
@@ -24,7 +28,7 @@
   {{ end }}
   <section class="research-section" aria-labelledby="publications-title">
     <div class="research-section-label"><h2 id="publications-title">Publications</h2><a href="{{ "/publication-type/2/" | relURL }}">All publications <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
-    <div class="research-list">{{ range first 6 $published }}{{ partial "research-row" . }}{{ end }}</div>
+    <div class="research-list">{{ range $published }}{{ partial "research-row" . }}{{ end }}</div>
   </section>
   <section class="research-section" aria-labelledby="ongoing-title">
     <div class="research-section-label"><h2 id="ongoing-title">Ongoing research</h2></div>
