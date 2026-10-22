@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="1024" viewBox="0 0 1536 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Leaving home during a hurricane</title>
+  <desc id="desc">Florida survey findings during COVID-19 in 2020. Concern about protecting property was linked to lower willingness to evacuate. This link was weaker among residents receptive to shelter recommendations on Google Maps or Yelp. These are observational associations in stated intentions under a hypothetical Category 4 hurricane.</desc>
+  <defs>
+    <style>
+      .sans{font-family:Arial,Helvetica,sans-serif}
+      .serif{font-family:Georgia,'Times New Roman',serif}
+      .ink{fill:#193C32}
+      .muted{fill:#557C70}
+      .line{fill:none;stroke:#193C32;stroke-width:7;stroke-linecap:round;stroke-linejoin:round}
+      .softline{fill:none;stroke:#557C70;stroke-width:6;stroke-linecap:round;stroke-linejoin:round}
+    </style>
+  </defs>
+  <rect width="1536" height="1024" fill="#F7F6F0"/>
+  <path d="M64 64H1472" stroke="#193C32" stroke-width="4"/>
+  <text x="64" y="110" class="sans muted" font-size="24" font-weight="700" letter-spacing="3">HURRICANE EVACUATION DURING COVID-19</text>
+  <text x="64" y="192" class="serif ink" font-size="62">Leaving home during a hurricane</text>
+  <text x="66" y="241" class="sans muted" font-size="30">What the survey suggests about property worries and shelter information</text>
+  <path d="M768 300V846" stroke="#D8DDD4" stroke-width="2"/>
+  <!-- Property protection concern: a home and a resident thinking about it. -->
+  <circle cx="370" cy="452" r="150" fill="#E9EBDD"/>
+  <path d="M190 432L321 329L452 432" class="line"/>
+  <path d="M218 412V554H424V412" class="line" fill="#F7F6F0"/>
+  <path d="M297 554V472H346V554" class="line"/>
+  <rect x="246" y="435" width="35" height="35" rx="2" fill="none" stroke="#557C70" stroke-width="5"/>
+  <rect x="365" y="435" width="35" height="35" rx="2" fill="none" stroke="#557C70" stroke-width="5"/>
+  <path d="M263 435V470M246 452H281M382 435V470M365 452H400" stroke="#557C70" stroke-width="4"/>
+  <path d="M380 375V337H410V399" class="line"/>
+  <circle cx="494" cy="459" r="30" fill="#B29457"/>
+  <path d="M455 561V526C455 500 473 487 494 487C516 487 534 502 534 526V561" fill="#557C70"/>
+  <path d="M470 517L491 534L524 504" fill="none" stroke="#193C32" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="513" cy="407" r="7" fill="#B29457"/>
+  <circle cx="534" cy="383" r="10" fill="#B29457"/>
+  <path d="M546 339C546 316 563 300 587 300C611 300 628 316 628 339C628 362 611 378 587 378C563 378 546 362 546 339Z" fill="#EFE7D5" stroke="#B29457" stroke-width="3"/>
+  <path d="M574 330C574 321 580 317 587 317C595 317 601 322 601 329C601 339 587 340 587 350" fill="none" stroke="#8E743F" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="587" cy="361" r="3" fill="#8E743F"/>
+  <path d="M176 573H572" stroke="#193C32" stroke-width="5" stroke-linecap="round"/>
+  <!-- Community shelter information: an illustrative interface, no invented reviews or ratings. -->
+  <circle cx="1136" cy="452" r="150" fill="#E7EDE5"/>
+  <rect x="1041" y="300" width="190" height="286" rx="24" fill="#F7F6F0" stroke="#193C32" stroke-width="7"/>
+  <path d="M1106 320H1166" stroke="#193C32" stroke-width="6" stroke-linecap="round"/>
+  <path d="M1064 386L1136 344L1208 386" class="softline"/>
+  <path d="M1078 380V424H1194V380" class="softline"/>
+  <path d="M1123 424V394H1149V424" class="softline"/>
+  <path d="M1075 448H1197" stroke="#CCD6CC" stroke-width="2"/>
+  <circle cx="1093" cy="479" r="10" fill="#557C70"/>
+  <path d="M1078 501C1078 486 1108 486 1108 501" fill="#557C70"/>
+  <path d="M1123 476H1195M1123 490H1181" stroke="#8FA597" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="1093" cy="527" r="10" fill="#B29457"/>
+  <path d="M1078 549C1078 534 1108 534 1108 549" fill="#B29457"/>
+  <path d="M1123 524H1195M1123 538H1181" stroke="#8FA597" stroke-width="5" stroke-linecap="round"/>
+  <path d="M979 379H1020V423H1001L982 439V423H958V379Z" fill="#557C70"/>
+  <path d="M1260 458H1300V505H1279L1259 522V505H1235V458Z" fill="#B29457"/>
+  <text x="370" y="655" text-anchor="middle" class="sans ink" font-size="40" font-weight="700">Worries about property</text>
+  <text x="370" y="716" text-anchor="middle" class="sans ink" font-size="35">
+    <tspan x="370">Linked to lower willingness</tspan>
+    <tspan x="370" dy="47">to evacuate.</tspan>
+  </text>
+  <text x="1136" y="642" text-anchor="middle" class="sans ink" font-size="38" font-weight="700">
+    <tspan x="1136">Community shelter</tspan>
+    <tspan x="1136" dy="45">recommendations</tspan>
+  </text>
+  <text x="1136" y="741" text-anchor="middle" class="sans ink" font-size="32">
+    <tspan x="1136">Among residents open to Google Maps</tspan>
+    <tspan x="1136" dy="42">or Yelp recommendations,</tspan>
+    <tspan x="1136" dy="42">the link was weaker.</tspan>
+  </text>
+  <path d="M64 882H1472" stroke="#D3DACF" stroke-width="2"/>
+  <text x="64" y="929" class="sans ink" font-size="27" font-weight="700">Florida survey, 2020</text>
+  <text x="353" y="929" class="sans muted" font-size="27">· Stated intentions in a hypothetical Category 4 hurricane</text>
+  <text x="64" y="974" class="sans muted" font-size="25">Observational evidence: the study does not establish cause and effect.</text>
+</svg>
