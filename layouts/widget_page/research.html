@@ -1,10 +1,6 @@
 {{ define "main" }}
 {{ $papers := where site.RegularPages "Type" "publication" }}
 {{ $published := (where $papers "Params.publication_types" "intersect" (slice "2")).ByDate.Reverse }}
-{{/* Keep the election cybersecurity study first, followed by the latest accepted papers. */}}
-{{ with site.GetPage "/publication/cybersecurity2026" }}
-  {{ $published = union (slice .) $published }}
-{{ end }}
 {{ $ongoing := (where $papers "Params.publication_types" "intersect" (slice "3")).ByDate.Reverse }}
 <main class="research-page">
   <h1 class="sr-only">{{ .Title }}</h1>
@@ -13,6 +9,7 @@
     <div>
       <p class="research-eyebrow">Featured publication</p>
       {{ $title := split .Title ": " }}
+      {{ if .Params.featured_title }}{{ $title = slice .Params.featured_title .Params.featured_subtitle }}{{ end }}
       <h2 id="featured-title">{{ index $title 0 }}</h2>
       {{ if gt (len $title) 1 }}<p class="research-feature-subtitle">{{ delimit (after 1 $title) ": " }}</p>{{ end }}
       <div class="research-authors">{{ partial "page_metadata_authors" . }}</div>
