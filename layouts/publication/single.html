@@ -9,8 +9,13 @@
     {{ with .Params.publication }}<p class="research-venue">{{ . | markdownify }}</p>{{ end }}
     <div class="research-detail-links">{{ partial "page_links" (dict "page" . "is_list" false) }}</div>
   </header>
+  {{ $findingPath := printf "static/images/%s-key-findings.svg" (path.Base (path.Dir .File.Path)) }}
+  {{ if fileExists $findingPath }}
+    <figure class="research-finding-figure">{{ readFile $findingPath | safeHTML }}</figure>
+  {{ else }}
   {{ with .Params.research_image }}<img class="research-detail-art" src="{{ . | relURL }}" width="1536" height="1024" alt="{{ $.Params.research_image_alt }}">{{ else }}
     {{ with (.Resources.ByType "image").GetMatch "*featured*" }}<img class="research-detail-art" src="{{ .RelPermalink }}" alt="{{ $.Params.image.alt_text }}">{{ end }}
+  {{ end }}
   {{ end }}
   {{ with .Params.abstract }}<section class="research-abstract"><h2>Abstract</h2><div>{{ . | markdownify }}</div></section>{{ end }}
   {{ with .Content }}<div class="article-style research-body">{{ . }}</div>{{ end }}
