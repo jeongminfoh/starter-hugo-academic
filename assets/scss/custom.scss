@@ -493,6 +493,8 @@ body.dark:has(.research-page), body.dark:has(.research-page) .navbar { backgroun
 }
 
 /* Preserve all labels and source notes in the research infographic. */
+.research-finding-figure { margin: 30px 0; }
+.research-finding-figure svg { display: block; width: 100%; height: auto; }
 .research-art[src$="election-key-findings.png"],
 .research-detail-art[src$="election-key-findings.png"] {
   height: auto;
