@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="1024" viewBox="0 0 1536 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Fairness and the wish to leave</title>
+  <desc id="desc">In South Korean public employee surveys from 2021 to 2023, the association between public service motivation and lower turnover intentions was stronger at higher perceived reward unfairness, but weaker at higher perceived unfair procedures or interpersonal treatment.</desc>
+  <defs><style>
+    .sans{font-family:Arial,Helvetica,sans-serif}
+    .serif{font-family:Georgia,'Times New Roman',serif}
+    .ink{fill:#193C32}
+    .muted{fill:#557C70}
+    .line{fill:none;stroke:#193C32;stroke-width:7;stroke-linecap:round;stroke-linejoin:round}
+    .softline{fill:none;stroke:#557C70;stroke-width:6;stroke-linecap:round;stroke-linejoin:round}
+  </style></defs>
+  <rect width="1536" height="1024" fill="#F7F6F0"/>
+  <path d="M64 64H1472" stroke="#193C32" stroke-width="4"/>
+  <text x="64" y="110" class="sans muted" font-size="24" font-weight="700" letter-spacing="3">PUBLIC SERVICE MOTIVATION &amp; FAIRNESS</text>
+  <text x="64" y="192" class="serif ink" font-size="62">Fairness and the wish to leave</text>
+  <text x="66" y="241" class="sans muted" font-size="30">How motivation to serve the public relates to intentions to leave a job</text>
+  <path d="M768 300V846" stroke="#D8DDD4" stroke-width="2"/>
+
+<circle cx="370" cy="452" r="150" fill="#E9EBDD"/>
+<g transform="translate(370 452)">
+      <ellipse cx="-56" cy="100" rx="79" ry="29" fill="#EFE7D5" stroke="#B29457" stroke-width="5"/>
+      <path d="M-135 63V100M23 63V100" fill="none" stroke="#B29457" stroke-width="5"/>
+      <ellipse cx="-56" cy="63" rx="79" ry="29" fill="#EFE7D5" stroke="#B29457" stroke-width="5"/>
+      <path d="M-135 26V63M23 26V63" fill="none" stroke="#B29457" stroke-width="5"/>
+      <ellipse cx="-56" cy="26" rx="79" ry="29" fill="#EFE7D5" stroke="#B29457" stroke-width="5"/>
+      <circle cx="71" cy="-42" r="80" fill="#F7F6F0" class="line"/>
+      <circle cx="71" cy="-42" r="61" fill="none" stroke="#557C70" stroke-width="4"/>
+      <path d="M95-76C62-94 35-67 71-43C106-20 83 6 48-9M71-91V8" class="softline"/></g>
+<text x="370" y="655" text-anchor="middle" class="sans ink" font-size="40" font-weight="700"><tspan x="370">Unfair rewards</tspan></text>
+<text x="370" y="727" text-anchor="middle" class="sans ink" font-size="30"><tspan x="370">Motivation to serve the public was</tspan><tspan x="370" dy="39">more strongly linked to less</tspan><tspan x="370" dy="39">desire to leave when rewards</tspan><tspan x="370" dy="39">felt unfair.</tspan></text>
+<circle cx="1136" cy="452" r="150" fill="#E7EDE5"/>
+<g transform="translate(1136 452)">
+      <path d="M0-118V117M-49 132H49M-93-68H94" class="line"/>
+      <circle cx="0" cy="-101" r="17" fill="#B29457"/>
+      <path d="M-93-68L-141 33M-93-68L-44 33M94-68L46 33M94-68L143 33" class="softline"/>
+      <path d="M-144 34H-41C-45 83-137 83-144 34Z" fill="#E7EDE5" class="line"/>
+      <path d="M43 34H146C142 83 50 83 43 34Z" fill="#EFE7D5" stroke="#B29457" stroke-width="6" stroke-linejoin="round"/></g>
+<text x="1136" y="642" text-anchor="middle" class="sans ink" font-size="38" font-weight="700"><tspan x="1136">Unfair procedures</tspan><tspan x="1136" dy="45">or treatment</tspan></text>
+<text x="1136" y="741" text-anchor="middle" class="sans ink" font-size="32"><tspan x="1136">That link was weaker when</tspan><tspan x="1136" dy="42">decision-making procedures or</tspan><tspan x="1136" dy="42">interpersonal treatment felt unfair.</tspan></text>
+<path d="M64 882H1472" stroke="#D3DACF" stroke-width="2"/>
+  <text x="64" y="929" class="sans ink" font-size="27" font-weight="700">South Korean public employee surveys, 2021–2023</text>
+</svg>

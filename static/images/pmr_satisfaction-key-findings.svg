@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="1024" viewBox="0 0 1536 1024" role="img" aria-labelledby="title desc">
+  <title id="title">When a public service feels like yours</title>
+  <desc id="desc">In a 2023 survey of U.S. adults, ratings of an emergency-alert service were lower with a privacy-policy requirement than without it when there was no ownership framing. This negative pattern was weaker when the service was framed as belonging to the user.</desc>
+  <defs><style>
+    .sans{font-family:Arial,Helvetica,sans-serif}
+    .serif{font-family:Georgia,'Times New Roman',serif}
+    .ink{fill:#193C32}
+    .muted{fill:#557C70}
+    .line{fill:none;stroke:#193C32;stroke-width:7;stroke-linecap:round;stroke-linejoin:round}
+    .softline{fill:none;stroke:#557C70;stroke-width:6;stroke-linecap:round;stroke-linejoin:round}
+  </style></defs>
+  <rect width="1536" height="1024" fill="#F7F6F0"/>
+  <path d="M64 64H1472" stroke="#193C32" stroke-width="4"/>
+  <text x="64" y="110" class="sans muted" font-size="24" font-weight="700" letter-spacing="3">OWNERSHIP AND PUBLIC SERVICES</text>
+  <text x="64" y="192" class="serif ink" font-size="62">When a public service feels like yours</text>
+  <text x="66" y="241" class="sans muted" font-size="30">How people rated an emergency-alert service with a privacy requirement</text>
+  <path d="M768 300V846" stroke="#D8DDD4" stroke-width="2"/>
+
+<circle cx="370" cy="452" r="150" fill="#E9EBDD"/>
+<g transform="translate(370 452)">
+      <path d="M0-139C41-112 84-100 132-94V-16C132 64 78 118 0 150C-78 118-132 64-132-16V-94C-84-100-41-112 0-139Z" fill="#E7EDE5" class="line"/>
+      <path d="M-60 0L-14 46L67-47" fill="none" stroke="#557C70" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="109" cy="100" r="28" fill="#EFE7D5" stroke="#B29457" stroke-width="5"/></g>
+<text x="370" y="655" text-anchor="middle" class="sans ink" font-size="40" font-weight="700"><tspan x="370">A privacy requirement</tspan></text>
+<text x="370" y="741" text-anchor="middle" class="sans ink" font-size="32"><tspan x="370">Without ownership framing,</tspan><tspan x="370" dy="42">ratings were lower with</tspan><tspan x="370" dy="42">a privacy requirement.</tspan></text>
+<circle cx="1136" cy="452" r="150" fill="#E7EDE5"/>
+<g transform="translate(1136 452)">
+      <path d="M-129-35L-12-125L105-35M-105-50V86H82V-50" class="line"/>
+      <path d="M-38 86V14H15V86" class="softline"/>
+      <circle cx="112" cy="45" r="30" fill="#B29457"/>
+      <path d="M64 139V104C64 76 85 68 112 68C139 68 160 83 160 104V139" fill="#557C70"/>
+      <path d="M-130 127H44M82 109L111 127L145 93" class="line"/></g>
+<text x="1136" y="655" text-anchor="middle" class="sans ink" font-size="40" font-weight="700"><tspan x="1136">“Your service” framing</tspan></text>
+<text x="1136" y="741" text-anchor="middle" class="sans ink" font-size="32"><tspan x="1136">The negative pattern was weaker</tspan><tspan x="1136" dy="42">when the service was framed</tspan><tspan x="1136" dy="42">as belonging to the user.</tspan></text>
+<path d="M64 882H1472" stroke="#D3DACF" stroke-width="2"/>
+  <text x="64" y="929" class="sans ink" font-size="27" font-weight="700">U.S. adults, 2023 · Emergency-alert service</text>
+</svg>
