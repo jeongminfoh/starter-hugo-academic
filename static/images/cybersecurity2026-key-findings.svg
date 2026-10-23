@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="1024" viewBox="0 0 1536 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Paper trails grew. Oversight gaps remained.</title>
+  <desc id="desc">Voting machines without paper audit trails were reported by 44% of responding local jurisdictions in 2012 and 1.3% in 2024. In 2024, 16 of 41 state-level jurisdictions using electronic poll books had no formal testing or certification requirement.</desc>
+  <defs><style>
+    .sans{font-family:Arial,Helvetica,sans-serif}
+    .serif{font-family:Georgia,'Times New Roman',serif}
+    .ink{fill:#193C32}
+    .muted{fill:#557C70}
+    .line{fill:none;stroke:#193C32;stroke-width:7;stroke-linecap:round;stroke-linejoin:round}
+    .softline{fill:none;stroke:#557C70;stroke-width:6;stroke-linecap:round;stroke-linejoin:round}
+  </style></defs>
+  <rect width="1536" height="1024" fill="#F7F6F0"/>
+  <path d="M64 64H1472" stroke="#193C32" stroke-width="4"/>
+  <text x="64" y="110" class="sans muted" font-size="24" font-weight="700" letter-spacing="3">U.S. ELECTION CYBERSECURITY</text>
+  <text x="64" y="192" class="serif ink" font-size="62">Paper trails grew. Oversight gaps remained.</text>
+  <text x="66" y="241" class="sans muted" font-size="30">How election practices changed from 2012 to 2024</text>
+  <path d="M768 300V846" stroke="#D8DDD4" stroke-width="2"/>
+
+<circle cx="370" cy="452" r="150" fill="#E9EBDD"/>
+<g transform="translate(370 452)">
+      <rect x="-131" y="-99" width="173" height="215" rx="15" fill="#F7F6F0" class="line"/>
+      <rect x="-107" y="-72" width="125" height="129" rx="3" fill="#E7EDE5" stroke="#557C70" stroke-width="4"/>
+      <path d="M-86-43L-77-34L-62-53M-49-44H-4M-86-3L-77 6L-62-13M-49-4H-4M-86 36H-68M-49 36H-4" fill="none" stroke="#557C70" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="-44" cy="86" r="10" fill="#B29457"/>
+      <path d="M-59 119V142M-26 119V142M-80 146H-6" class="line"/>
+      <path d="M60-40H117L150-7V136H60Z" fill="#EFE7D5" stroke="#B29457" stroke-width="5" stroke-linejoin="round"/>
+      <path d="M117-40V-7H150M79 23H129M79 50H129M79 78H129M79 106H111" fill="none" stroke="#8E743F" stroke-width="5" stroke-linecap="round"/></g>
+<text x="370" y="642" text-anchor="middle" class="sans ink" font-size="38" font-weight="700"><tspan x="370">Fewer paperless</tspan><tspan x="370" dy="45">voting machines</tspan></text>
+<text x="370" y="741" text-anchor="middle" class="sans ink" font-size="32"><tspan x="370">Used by 44% of reporting local</tspan><tspan x="370" dy="42">jurisdictions in 2012,</tspan><tspan x="370" dy="42">compared with 1.3% in 2024.</tspan></text>
+<circle cx="1136" cy="452" r="150" fill="#E7EDE5"/>
+<g transform="translate(1136 452)">
+      <rect x="-106" y="-115" width="194" height="253" rx="13" fill="#F7F6F0" class="line"/>
+      <rect x="-58" y="-132" width="98" height="37" rx="9" fill="#E7EDE5" class="line"/>
+      <path d="M-74-49L-62-37L-41-61M-20-48H54M-74 7L-62 19L-41-5M-20 8H54" class="softline"/>
+      <rect x="-74" y="56" width="30" height="30" rx="3" fill="none" stroke="#B29457" stroke-width="5"/>
+      <path d="M-20 70H54" fill="none" stroke="#B29457" stroke-width="5" stroke-linecap="round"/>
+      <circle cx="122" cy="78" r="39" fill="#EFE7D5" stroke="#B29457" stroke-width="5"/>
+      <path d="M150 106L178 134" fill="none" stroke="#8E743F" stroke-width="10" stroke-linecap="round"/></g>
+<text x="1136" y="642" text-anchor="middle" class="sans ink" font-size="38" font-weight="700"><tspan x="1136">Uneven e-poll</tspan><tspan x="1136" dy="45">book oversight</tspan></text>
+<text x="1136" y="741" text-anchor="middle" class="sans ink" font-size="32"><tspan x="1136">In 2024, 16 of 41 adopting</tspan><tspan x="1136" dy="42">state-level jurisdictions had</tspan><tspan x="1136" dy="42">no testing or certification rule.</tspan></text>
+<path d="M64 882H1472" stroke="#D3DACF" stroke-width="2"/>
+  <text x="64" y="929" class="sans ink" font-size="27" font-weight="700">U.S. Election Assistance Commission surveys, 2012–2024</text>
+</svg>

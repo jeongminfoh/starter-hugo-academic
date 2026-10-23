@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="1024" viewBox="0 0 1536 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Missing links in wildfire communication</title>
+  <desc id="desc">Online communication during the 2017 Gangneung wildfire showed few repeated exchanges in the largest Twitter groups. Conversations centered on firefighter stories and fundraising, with little attention to evacuation.</desc>
+  <defs><style>
+    .sans{font-family:Arial,Helvetica,sans-serif}
+    .serif{font-family:Georgia,'Times New Roman',serif}
+    .ink{fill:#193C32}
+    .muted{fill:#557C70}
+    .line{fill:none;stroke:#193C32;stroke-width:7;stroke-linecap:round;stroke-linejoin:round}
+    .softline{fill:none;stroke:#557C70;stroke-width:6;stroke-linecap:round;stroke-linejoin:round}
+  </style></defs>
+  <rect width="1536" height="1024" fill="#F7F6F0"/>
+  <path d="M64 64H1472" stroke="#193C32" stroke-width="4"/>
+  <text x="64" y="110" class="sans muted" font-size="24" font-weight="700" letter-spacing="3">COMMUNICATION DURING A WILDFIRE</text>
+  <text x="64" y="192" class="serif ink" font-size="62">Missing links in wildfire communication</text>
+  <text x="66" y="241" class="sans muted" font-size="30">What online conversations showed during the Gangneung fire</text>
+  <path d="M768 300V846" stroke="#D8DDD4" stroke-width="2"/>
+
+<circle cx="370" cy="452" r="150" fill="#E9EBDD"/>
+<g transform="translate(370 452)">
+      <path d="M-105-67L12-110L115-23L61 101L-91 78L-105-67M-105-67L61 101M12-110L-91 78M12-110L61 101M-91 78L115-23" fill="none" stroke="#8FA597" stroke-width="6" stroke-linecap="round"/>
+      <circle cx="-105" cy="-67" r="31" fill="#557C70"/>
+      <circle cx="12" cy="-110" r="26" fill="#B29457"/>
+      <circle cx="115" cy="-23" r="38" fill="#193C32"/>
+      <circle cx="61" cy="101" r="30" fill="#557C70"/>
+      <circle cx="-91" cy="78" r="37" fill="#B29457"/>
+      <circle cx="115" cy="-23" r="10" fill="#F7F6F0"/></g>
+<text x="370" y="655" text-anchor="middle" class="sans ink" font-size="40" font-weight="700"><tspan x="370">Mostly one-way sharing</tspan></text>
+<text x="370" y="716" text-anchor="middle" class="sans ink" font-size="35"><tspan x="370">The largest Twitter groups</tspan><tspan x="370" dy="47">showed few repeated exchanges.</tspan></text>
+<circle cx="1136" cy="452" r="150" fill="#E7EDE5"/>
+<g transform="translate(1136 452)">
+      <path d="M-18-139C31-84 26-40 13-10C53-27 64-60 63-84C121-31 143 21 116 77C92 129 33 150-18 133C-83 112-101 51-79 8C-66 36-43 45-35 30C-53-22-53-85-18-139Z" fill="#EFE7D5" stroke="#B29457" stroke-width="7" stroke-linejoin="round"/>
+      <path d="M-4 3C32 36 20 56 42 64C68 75 42 119 10 120C-27 119-44 93-30 63C-15 43-14 17-4 3Z" fill="#B29457"/>
+      <path d="M-159 42V137M-159-95L-206-12H-179L-211 42H-108L-140-12H-112Z" fill="#E7EDE5" stroke="#557C70" stroke-width="6" stroke-linejoin="round"/></g>
+<text x="1136" y="655" text-anchor="middle" class="sans ink" font-size="40" font-weight="700"><tspan x="1136">Little evacuation guidance</tspan></text>
+<text x="1136" y="741" text-anchor="middle" class="sans ink" font-size="32"><tspan x="1136">Conversations focused on</tspan><tspan x="1136" dy="42">firefighter stories and fundraising,</tspan><tspan x="1136" dy="42">with little attention to evacuation.</tspan></text>
+<path d="M64 882H1472" stroke="#D3DACF" stroke-width="2"/>
+  <text x="64" y="929" class="sans ink" font-size="27" font-weight="700">Twitter and online news · Gangneung, South Korea · May 2017</text>
+</svg>

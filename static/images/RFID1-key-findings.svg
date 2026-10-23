@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="1024" viewBox="0 0 1536 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Making food-waste costs visible</title>
+  <desc id="desc">Across 25 Seoul districts from 2010 to 2020, a larger share of households paying for food waste by weight was associated with less food waste collected by districts. This association weakened over the study period.</desc>
+  <defs><style>
+    .sans{font-family:Arial,Helvetica,sans-serif}
+    .serif{font-family:Georgia,'Times New Roman',serif}
+    .ink{fill:#193C32}
+    .muted{fill:#557C70}
+    .line{fill:none;stroke:#193C32;stroke-width:7;stroke-linecap:round;stroke-linejoin:round}
+    .softline{fill:none;stroke:#557C70;stroke-width:6;stroke-linecap:round;stroke-linejoin:round}
+  </style></defs>
+  <rect width="1536" height="1024" fill="#F7F6F0"/>
+  <path d="M64 64H1472" stroke="#193C32" stroke-width="4"/>
+  <text x="64" y="110" class="sans muted" font-size="24" font-weight="700" letter-spacing="3">FOOD WASTE PRICING IN SEOUL</text>
+  <text x="64" y="192" class="serif ink" font-size="62">Making food-waste costs visible</text>
+  <text x="66" y="241" class="sans muted" font-size="30">What the district data suggest about paying by weight</text>
+  <path d="M768 300V846" stroke="#D8DDD4" stroke-width="2"/>
+
+<circle cx="370" cy="452" r="150" fill="#E9EBDD"/>
+<g transform="translate(370 452)">
+      <path d="M-95-80H74L60 123H-79Z" fill="#F7F6F0" class="line"/>
+      <path d="M-108-82H87M-59-103H37" class="line"/>
+      <rect x="-57" y="-45" width="96" height="50" rx="5" fill="#E7EDE5" stroke="#557C70" stroke-width="5"/>
+      <path d="M-37-19H18M-49 41V89M-8 41V89M33 41V89" class="softline"/>
+      <path d="M-7-137C9-177 57-172 60-158C46-130 23-122-7-137Z" fill="#557C70"/>
+      <path d="M-7-137C-12-112-9-109-3-103" class="softline"/>
+      <rect x="72" y="-6" width="87" height="56" rx="7" fill="#EFE7D5" stroke="#B29457" stroke-width="5" transform="rotate(-12 115 22)"/>
+      <path d="M98 12Q120 5 136 22M105 26Q119 21 128 31" fill="none" stroke="#8E743F" stroke-width="4" stroke-linecap="round"/>
+      <path d="M-117 135H111" class="line"/></g>
+<text x="370" y="642" text-anchor="middle" class="sans ink" font-size="38" font-weight="700"><tspan x="370">More households</tspan><tspan x="370" dy="45">paying by weight</tspan></text>
+<text x="370" y="741" text-anchor="middle" class="sans ink" font-size="32"><tspan x="370">Linked to less food waste</tspan><tspan x="370" dy="42">collected in the district.</tspan></text>
+<circle cx="1136" cy="452" r="150" fill="#E7EDE5"/>
+<g transform="translate(1136 452)">
+      <circle cx="-12" cy="-4" r="108" fill="#F7F6F0" class="line"/>
+      <path d="M-12-83V-70M-12 62V75M-91-4H-78M54-4H67M-12-4V-52M-12-4L29 21" class="softline"/>
+      <circle cx="-12" cy="-4" r="9" fill="#B29457"/>
+      <rect x="57" y="59" width="104" height="84" rx="9" fill="#EFE7D5" stroke="#B29457" stroke-width="5"/>
+      <path d="M57 84H161M82 49V70M137 49V70" fill="none" stroke="#8E743F" stroke-width="5" stroke-linecap="round"/>
+      <path d="M79 105H91M113 105H125M79 124H91M113 124H125" fill="none" stroke="#B29457" stroke-width="5" stroke-linecap="round"/></g>
+<text x="1136" y="642" text-anchor="middle" class="sans ink" font-size="38" font-weight="700"><tspan x="1136">A weaker link</tspan><tspan x="1136" dy="45">over time</tspan></text>
+<text x="1136" y="741" text-anchor="middle" class="sans ink" font-size="32"><tspan x="1136">The association with lower</tspan><tspan x="1136" dy="42">food waste became smaller</tspan><tspan x="1136" dy="42">over the study period.</tspan></text>
+<path d="M64 882H1472" stroke="#D3DACF" stroke-width="2"/>
+  <text x="64" y="929" class="sans ink" font-size="27" font-weight="700">25 Seoul districts, 2010–2020</text>
+</svg>
